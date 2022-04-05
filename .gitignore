@@ -1,0 +1,6 @@
+data
+script
+*.bcf
+*.aux
+*.log
+*.xml
