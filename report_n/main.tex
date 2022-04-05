@@ -1,0 +1,59 @@
+\documentclass[11pt, twocolumn]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[a4paper,width=150mm,top=35mm,bottom=35mm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[R]{Text}    % add text as header
+\fancyfoot{}
+\fancyfoot[C]{\thepage}   % add page number
+\renewcommand{\headrulewidth}{0.20pt}
+\renewcommand{\footrulewidth}{0.20pt}
+
+%% \pagestyle{empty} remove header and footer for that page
+%% \pagestyle{plain} add only the page number
+
+\usepackage{biblatex}
+\addbibresource{reference.bib}
+
+
+\begin{document}
+
+\input{titlepage}
+
+\twocolumn[
+  \begin{@twocolumnfalse}
+    \begin{abstract}
+	    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta enim a ipsum hendrerit aliquam. Phasellus at enim gravida, lobortis ante id, vestibulum velit. Aliquam iaculis maximus ligula quis ornare. Nunc ut orci id ante malesuada posuere id sit amet dolor. Nulla facilisi. In vitae est eu lacus finibus tincidunt vitae in neque. Aliquam tincidunt ipsum sed ligula rhoncus vestibulum gravida at erat. Quisque ligula elit, laoreet ut aliquet vel, finibus ac orci.
+    \end{abstract}
+  \end{@twocolumnfalse}
+]
+
+% \parencite{}
+
+%\vspace*{1cm}
+
+\section*{Methods}
+uiehoinewfbaoidn
+\subsection*{Genome Annotation}
+\subsection*{Pangenome Analysis}
+\subsection*{Phylogenetic Structure}
+\subsection*{Taxonomic Annotation}
+\subsection*{Association with Host Data}
+
+\lipsum[2-4]
+
+\section*{Results and Discussion}
+\lipsum[2-4]
+
+
+\section*{Conclusion}
+\lipsum[1-2]
+
+% \printbibliography
+
+\end{document}
