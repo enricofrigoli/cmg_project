@@ -1,6 +1,7 @@
 \documentclass[11pt, twocolumn]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{graphics}
 \usepackage{lipsum}
 \usepackage{caption}
 \usepackage{subcaption}
@@ -23,6 +24,8 @@
 
 \begin{document}
 
+
+
 \input{titlepage}
 
 \twocolumn[
@@ -37,44 +40,18 @@
 
 %\vspace*{1cm}
 
-\section*{Methods}
 
-% roary commands: roary GFF/*.gff -f roary_out –e -p 8 -i 95 -cd 90
-% we used PRANK as engine not MAFFT
-
-
-
-\section*{Results and Discussion}
-
-
-\subsection*{Genome Annotation}
-
-\subsection*{Pangenome Analysis}
-
-% plots to be included:
-% - conserved vs total genes
-% - unique vs total genes (https://github.com/sanger-pathogens/Roary/blob/master/bin/create_pan_genome_plots.R)
-% 
-% - Pangenome frequency plot
-% - Presence and absence matrix and tree
-% - Pangenome pie-chart (core, soft core, shell and cloud genes)
-% (https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_plots/roary_plots.py)
-%
-%
-
-\subsection*{Phylogenetic Structure}
-
-\subsection*{Taxonomic Annotation}
-
-\subsection*{Association with Host Data}
+\input{sections/introduction}
+\input{sections/methods}
+\input{sections/results/genomeAnnotation}
+\input{sections/results/pangenomeAnalysis}
+\input{sections/results/phylogeneticStructure}
+\input{sections/results/taxonomicAnnotation}
+\input{sections/results/associationHostData}
+\input{sections/conclusion}
 
 
 
-
-
-\section*{Conclusion}
-
-
-% \printbibliography
+%\printbibliography
 
 \end{document}
