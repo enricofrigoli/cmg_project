@@ -4,3 +4,5 @@ script
 *.aux
 *.log
 *.xml
+*.bbl
+*.blg
