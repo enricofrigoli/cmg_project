@@ -19,8 +19,7 @@
 %% \pagestyle{plain} add only the page number
 
 \usepackage{biblatex}
-\addbibresource{reference.bib}
-
+\addbibresource{references.bib}
 
 \begin{document}
 
@@ -50,8 +49,16 @@
 \input{sections/results/associationHostData}
 \input{sections/conclusion}
 
+\printbibliography
+
+\appendix
+\newpage
+\section*{Supplementary data}
+\input{sections/appendix}
 
 
-%\printbibliography
+
+
+% \printbibliography
 
 \end{document}
