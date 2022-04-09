@@ -10,19 +10,26 @@ A total of 31 HQ genomes (29 SGBs and 2 reference genome) were used in this stud
 \nocite{Tange2011a}
 
 
+\subparagraph*{Pangenome Analysis}
 
 %%%% PANGENOME ANALYSIS 
-The species' pangenome was obtained using Roary v3.7.0 (citation) based on Prokka annotation files (.gff). 
+The species' pangenome was obtained using Roary v.3.7.0 (citation) taking Prokka annotation files (.gff) as input. 
 The following parameters were given: \textbf{-i 95} to set the minimum percentage of identity
 in the blastp alignement to 95\%, \textbf{-cd 90} to set the prevalence in \% MAGs for a gene
-to be considered core, \textbf{-e} to produce the alignement using PRANK, \textbf{-p 8} to
+to be considered core, \textbf{-e} to produce the core gene alignement file using PRANK, \textbf{-p 8} to
 specify the number of threads. 
 
 The number of genes and related classification were retrieved from the output file
 \textit{summary\_statistics.txt} and \textit{gene\_presence\_absence.csv}; plots were generated using two
-plotting script plotting script (\href{https://github.com/sanger-pathogens/Roary/blob/master/bin/create_pan_genome_plots.R}{here}
+plotting script (\href{https://github.com/sanger-pathogens/Roary/blob/master/bin/create_pan_genome_plots.R}{here}
 and \href{https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_plots/roary_plots.py}{here}).
 
+\subparagraph*{Phylogenetic Structure}
+
+The resulting core gene alignement file (.aln) obtained with Roary was processed with FastTree v.2.1.10 using \textbf{-nt}
+as parameter (nucleotide alignement). ITOL v.6 (\href{https://itol.embl.de/}{Interactive Tree of Life})
+was used to visualize both the tree obtained from Roary (.newick) and the one obtained from the core
+gene alignement file processed with FastTree (.tre).
 
 
 
