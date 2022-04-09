@@ -124,7 +124,10 @@ cr$percentage <- as.numeric(cr$percentage)
 
 ggplot(data=cr, aes(x=SGB14797, y=percentage, fill=SGB14797)) +
   geom_violin() +
-  theme(plot.title = element_text(size = 17),
+  xlab("") +
+  theme(axis.text.x = element_text(size=15),
+        axis.text.y = element_text(size=10),
+        axis.title.y = element_text(size=15),
         legend.position = "none") +
   scale_fill_manual(values = mycolors[c(1,4)]) +
   geom_boxplot(width=0.1, fill="white")
@@ -239,7 +242,8 @@ ggplot(data=prokka_CDS, aes(x=MAG, fill=protein_type)) +
   scale_fill_manual(values = mycolors[c(2,5)]) +
   ggtitle("Coding sequences") +
   theme(axis.text.x = element_text(angle=45, hjust=1, vjust=1, size=6, color="black"),
-        plot.title = element_text(size = 17))
+        plot.title = element_text(size = 17),
+        legend.position = c(0.87,0.22))
 # non-coding Sequences
 
 ggplot(data=prokka_nonCDS, aes(x=MAG, fill=ftype)) +
@@ -247,7 +251,8 @@ ggplot(data=prokka_nonCDS, aes(x=MAG, fill=ftype)) +
   scale_fill_manual(values = mycolors[c(3,2,1,4)]) +
   ggtitle("Non-coding Sequences") +
   theme(axis.text.x = element_text(angle=55, hjust=1, vjust=1, size=6, color="black"),
-        plot.title = element_text(size = 17))
+        plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.35))
 
 # Gene length
 
