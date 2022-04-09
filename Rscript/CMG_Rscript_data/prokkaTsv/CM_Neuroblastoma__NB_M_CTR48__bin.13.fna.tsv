@@ -1,0 +1,2229 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BIMNHAED_00001	CDS	1527	cca	2.7.7.72		CCA-adding enzyme
+BIMNHAED_00002	CDS	750	yfcA		COG0730	putative membrane transporter protein YfcA
+BIMNHAED_00003	tRNA	77				tRNA-Glu(ctc)
+BIMNHAED_00004	tRNA	74				tRNA-Gln(ctg)
+BIMNHAED_00005	CDS	858	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+BIMNHAED_00006	CDS	597	rutB_1	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+BIMNHAED_00007	CDS	672	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+BIMNHAED_00008	CDS	1359	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+BIMNHAED_00009	CDS	651	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+BIMNHAED_00010	CDS	804				hypothetical protein
+BIMNHAED_00011	CDS	258				hypothetical protein
+BIMNHAED_00012	CDS	792	sepF			Cell division protein SepF
+BIMNHAED_00013	CDS	693	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+BIMNHAED_00014	CDS	828	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+BIMNHAED_00015	CDS	1122	ftsZ		COG0206	Cell division protein FtsZ
+BIMNHAED_00016	CDS	1113	ftsQ			Cell division protein FtsQ
+BIMNHAED_00017	CDS	1152	murB_1	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+BIMNHAED_00018	CDS	1389	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+BIMNHAED_00019	CDS	1101	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BIMNHAED_00020	CDS	1347	mrdB_1	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+BIMNHAED_00021	CDS	1482	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+BIMNHAED_00022	CDS	1047	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+BIMNHAED_00023	CDS	1503	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+BIMNHAED_00024	CDS	1491	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+BIMNHAED_00025	CDS	1908	spoVD		COG0768	Stage V sporulation protein D
+BIMNHAED_00026	CDS	561	ftsL			Cell division protein FtsL
+BIMNHAED_00027	CDS	957	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+BIMNHAED_00028	CDS	477	mraZ			Transcriptional regulator MraZ
+BIMNHAED_00029	CDS	924	xerD_1			Tyrosine recombinase XerD
+BIMNHAED_00030	CDS	1029	ansA	3.5.1.1	COG0252	L-asparaginase 1
+BIMNHAED_00031	CDS	768				hypothetical protein
+BIMNHAED_00032	CDS	1482				hypothetical protein
+BIMNHAED_00033	CDS	489				hypothetical protein
+BIMNHAED_00034	CDS	1614	pyrG_1	6.3.4.2		CTP synthase
+BIMNHAED_00035	CDS	774	map_1	3.4.11.18	COG0024	Methionine aminopeptidase 1
+BIMNHAED_00036	CDS	1932	murJ			lipid II flippase MurJ
+BIMNHAED_00037	CDS	1029	ppnK	2.7.1.23	COG0061	NAD kinase
+BIMNHAED_00038	CDS	711	rplA		COG0081	50S ribosomal protein L1
+BIMNHAED_00039	CDS	498	rplK			50S ribosomal protein L11
+BIMNHAED_00040	CDS	531	nusG		COG0250	Transcription termination/antitermination protein NusG
+BIMNHAED_00041	CDS	402	secE			Protein translocase subunit SecE
+BIMNHAED_00042	tRNA	77				tRNA-Trp(cca)
+BIMNHAED_00043	CDS	150	rpmG		COG0267	50S ribosomal protein L33
+BIMNHAED_00044	CDS	1203	tufA		COG0050	Elongation factor Tu
+BIMNHAED_00045	tRNA	77				tRNA-Met(cat)
+BIMNHAED_00046	tRNA	76				tRNA-Thr(ggt)
+BIMNHAED_00047	tRNA	85				tRNA-Tyr(gta)
+BIMNHAED_00048	CDS	1164				hypothetical protein
+BIMNHAED_00049	CDS	1191	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+BIMNHAED_00050	CDS	1563	opuE_1		COG0591	Osmoregulated proline transporter OpuE
+BIMNHAED_00051	CDS	1290			COG1167	Putative aminotransferase/MSMEI_6121
+BIMNHAED_00052	CDS	1401		6.3.1.12		D-aspartate ligase
+BIMNHAED_00053	CDS	732		5.1.1.13	COG1794	Aspartate racemase
+BIMNHAED_00054	CDS	1854	asnB	6.3.5.4	COG0367	Putative asparagine synthetase [glutamine-hydrolyzing]
+BIMNHAED_00055	CDS	960				hypothetical protein
+BIMNHAED_00056	CDS	387				hypothetical protein
+BIMNHAED_00057	CDS	879				hypothetical protein
+BIMNHAED_00058	CDS	774	dmsD_1			Tat proofreading chaperone DmsD
+BIMNHAED_00059	CDS	627	dmsB_1		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_00060	CDS	2652	ynfF_1	1.8.99.-	COG1104	putative dimethyl sulfoxide reductase chain YnfF
+BIMNHAED_00061	CDS	714	msrQ_1			Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+BIMNHAED_00062	CDS	897	oxyR			Hydrogen peroxide-inducible genes activator
+BIMNHAED_00063	CDS	1704				hypothetical protein
+BIMNHAED_00064	CDS	3552		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+BIMNHAED_00065	CDS	1656	hbpA		COG0747	Heme-binding protein A
+BIMNHAED_00066	CDS	2178				hypothetical protein
+BIMNHAED_00067	CDS	630	adk	2.7.4.3		Adenylate kinase
+BIMNHAED_00068	CDS	1281	secY		COG0201	Protein translocase subunit SecY
+BIMNHAED_00069	CDS	450	rplO			50S ribosomal protein L15
+BIMNHAED_00070	CDS	192	rpmD		COG1841	50S ribosomal protein L30
+BIMNHAED_00071	CDS	531	rpsE		COG0098	30S ribosomal protein S5
+BIMNHAED_00072	CDS	369	rplR		COG0256	50S ribosomal protein L18
+BIMNHAED_00073	CDS	540	rplF			50S ribosomal protein L6
+BIMNHAED_00074	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+BIMNHAED_00075	CDS	186	rpsZ			30S ribosomal protein S14 type Z
+BIMNHAED_00076	CDS	552	rplE			50S ribosomal protein L5
+BIMNHAED_00077	CDS	336	rplX		COG0198	50S ribosomal protein L24
+BIMNHAED_00078	CDS	369	rplN		COG0093	50S ribosomal protein L14
+BIMNHAED_00079	CDS	261	rpsQ		COG0186	30S ribosomal protein S17
+BIMNHAED_00080	CDS	195	rpmC			50S ribosomal protein L29
+BIMNHAED_00081	CDS	423	rplP		COG0197	50S ribosomal protein L16
+BIMNHAED_00082	CDS	714	rpsC		COG0092	30S ribosomal protein S3
+BIMNHAED_00083	CDS	342	rplV		COG0091	50S ribosomal protein L22
+BIMNHAED_00084	CDS	273	rpsS			30S ribosomal protein S19
+BIMNHAED_00085	CDS	945	rplB			50S ribosomal protein L2
+BIMNHAED_00086	CDS	564				hypothetical protein
+BIMNHAED_00087	CDS	693	frdB_1	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+BIMNHAED_00088	CDS	1848				hypothetical protein
+BIMNHAED_00089	CDS	861	slyA			Transcriptional regulator SlyA
+BIMNHAED_00090	CDS	2070				hypothetical protein
+BIMNHAED_00091	CDS	1332	tig_1	5.2.1.8	COG0544	Trigger factor
+BIMNHAED_00092	CDS	582				hypothetical protein
+BIMNHAED_00093	CDS	1608				hypothetical protein
+BIMNHAED_00094	CDS	558				hypothetical protein
+BIMNHAED_00095	CDS	696	frdB_2	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+BIMNHAED_00096	CDS	1923				hypothetical protein
+BIMNHAED_00097	CDS	549				hypothetical protein
+BIMNHAED_00098	CDS	3273	smc_1			Chromosome partition protein Smc
+BIMNHAED_00099	CDS	702			COG1136	putative ABC transporter ATP-binding protein
+BIMNHAED_00100	CDS	1533				hypothetical protein
+BIMNHAED_00101	CDS	1470				hypothetical protein
+BIMNHAED_00102	CDS	114				hypothetical protein
+BIMNHAED_00103	CDS	498				hypothetical protein
+BIMNHAED_00104	CDS	642				hypothetical protein
+BIMNHAED_00105	CDS	1596				hypothetical protein
+BIMNHAED_00106	CDS	1572				hypothetical protein
+BIMNHAED_00107	CDS	495				hypothetical protein
+BIMNHAED_00108	CDS	288	rplW		COG0089	50S ribosomal protein L23
+BIMNHAED_00109	CDS	627	rplD			50S ribosomal protein L4
+BIMNHAED_00110	CDS	621	rplC		COG0087	50S ribosomal protein L3
+BIMNHAED_00111	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+BIMNHAED_00112	CDS	2118	fusA_1		COG0480	Elongation factor G
+BIMNHAED_00113	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+BIMNHAED_00114	CDS	372	rpsL			30S ribosomal protein S12
+BIMNHAED_00115	CDS	1191	cpg2	3.4.17.11		Carboxypeptidase G2
+BIMNHAED_00116	CDS	969	ppaC	3.6.1.1	COG1227	Manganese-dependent inorganic pyrophosphatase
+BIMNHAED_00117	CDS	1611				hypothetical protein
+BIMNHAED_00118	CDS	2415	pcrA_1	3.6.4.12		ATP-dependent DNA helicase PcrA
+BIMNHAED_00119	CDS	993				hypothetical protein
+BIMNHAED_00120	CDS	381				hypothetical protein
+BIMNHAED_00121	CDS	360	yccF		COG3304	Inner membrane protein YccF
+BIMNHAED_00122	CDS	699				hypothetical protein
+BIMNHAED_00123	CDS	387				hypothetical protein
+BIMNHAED_00124	CDS	315				hypothetical protein
+BIMNHAED_00125	CDS	912	dtd3_1	3.1.1.96		D-aminoacyl-tRNA deacylase
+BIMNHAED_00126	CDS	768	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+BIMNHAED_00127	CDS	1047				hypothetical protein
+BIMNHAED_00128	CDS	1050	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+BIMNHAED_00129	CDS	1278	lysC	2.7.2.4	COG0527	Aspartokinase
+BIMNHAED_00130	CDS	999				hypothetical protein
+BIMNHAED_00131	CDS	1173				hypothetical protein
+BIMNHAED_00132	CDS	630				hypothetical protein
+BIMNHAED_00133	CDS	1056				hypothetical protein
+BIMNHAED_00134	CDS	675	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+BIMNHAED_00135	CDS	2385	relA		COG0317	Bifunctional (p)ppGpp synthase/hydrolase RelA
+BIMNHAED_00136	CDS	3342	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+BIMNHAED_00137	CDS	672	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+BIMNHAED_00138	CDS	135				hypothetical protein
+BIMNHAED_00139	CDS	690	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+BIMNHAED_00140	CDS	786	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+BIMNHAED_00141	CDS	426				hypothetical protein
+BIMNHAED_00142	CDS	135				hypothetical protein
+BIMNHAED_00143	CDS	618	yigZ		COG1739	IMPACT family member YigZ
+BIMNHAED_00144	CDS	1869	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_00145	CDS	1413	ribZ_1			Riboflavin transporter RibZ
+BIMNHAED_00146	CDS	555	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+BIMNHAED_00147	CDS	966	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+BIMNHAED_00148	CDS	1377	glmU			Bifunctional protein GlmU
+BIMNHAED_00149	CDS	513				hypothetical protein
+BIMNHAED_00150	CDS	2511	copA	7.2.2.8		Copper-exporting P-type ATPase
+BIMNHAED_00151	CDS	405				hypothetical protein
+BIMNHAED_00152	CDS	630				hypothetical protein
+BIMNHAED_00153	CDS	1518	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+BIMNHAED_00154	CDS	822	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+BIMNHAED_00155	CDS	1047	rhaR_1			HTH-type transcriptional activator RhaR
+BIMNHAED_00156	CDS	357				hypothetical protein
+BIMNHAED_00157	CDS	810	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+BIMNHAED_00158	CDS	609	ngr		COG1592	Nigerythrin
+BIMNHAED_00159	CDS	1425	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+BIMNHAED_00160	CDS	543	arcC1_1	2.7.2.2		Carbamate kinase 1
+BIMNHAED_00161	CDS	798				hypothetical protein
+BIMNHAED_00162	CDS	459	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+BIMNHAED_00163	CDS	603				hypothetical protein
+BIMNHAED_00164	CDS	1212	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+BIMNHAED_00165	CDS	2946				hypothetical protein
+BIMNHAED_00166	CDS	231				hypothetical protein
+BIMNHAED_00167	CDS	2502				hypothetical protein
+BIMNHAED_00168	CDS	510				hypothetical protein
+BIMNHAED_00169	CDS	2193	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+BIMNHAED_00170	CDS	1371	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+BIMNHAED_00171	CDS	615	argG	6.3.4.5		Argininosuccinate synthase
+BIMNHAED_00172	CDS	1116				hypothetical protein
+BIMNHAED_00173	CDS	561				hypothetical protein
+BIMNHAED_00174	CDS	1347	proP_1			Proline/betaine transporter
+BIMNHAED_00175	CDS	579				hypothetical protein
+BIMNHAED_00176	CDS	1146	strB1	2.1.4.2	COG1834	Inosamine-phosphate amidinotransferase 1
+BIMNHAED_00177	CDS	696				hypothetical protein
+BIMNHAED_00178	CDS	846				hypothetical protein
+BIMNHAED_00179	CDS	441				hypothetical protein
+BIMNHAED_00180	CDS	639	betI			HTH-type transcriptional regulator BetI
+BIMNHAED_00181	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+BIMNHAED_00182	CDS	1455	coaBC	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+BIMNHAED_00183	CDS	672	regX3_1		COG0745	Sensory transduction protein regX3
+BIMNHAED_00184	CDS	1185	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+BIMNHAED_00185	CDS	684			COG1136	putative ABC transporter ATP-binding protein
+BIMNHAED_00186	CDS	3027				hypothetical protein
+BIMNHAED_00187	CDS	1386	mepA_1			Multidrug export protein MepA
+BIMNHAED_00188	CDS	489				hypothetical protein
+BIMNHAED_00189	CDS	705				hypothetical protein
+BIMNHAED_00190	CDS	885	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_00191	CDS	468				hypothetical protein
+BIMNHAED_00192	CDS	417				hypothetical protein
+BIMNHAED_00193	CDS	1113	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+BIMNHAED_00194	CDS	993				hypothetical protein
+BIMNHAED_00195	CDS	1458				hypothetical protein
+BIMNHAED_00196	CDS	708				hypothetical protein
+BIMNHAED_00197	CDS	312				hypothetical protein
+BIMNHAED_00198	CDS	624	dnaJ_1			Chaperone protein DnaJ
+BIMNHAED_00199	CDS	1815	typA		COG1217	GTP-binding protein TypA/BipA
+BIMNHAED_00200	CDS	1356	surA	5.2.1.8		Chaperone SurA
+BIMNHAED_00201	tRNA	92				tRNA-Ser(gga)
+BIMNHAED_00202	tRNA	93				tRNA-Ser(cga)
+BIMNHAED_00203	CDS	1386	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+BIMNHAED_00204	CDS	1734		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+BIMNHAED_00205	CDS	1728				hypothetical protein
+BIMNHAED_00206	CDS	1461				hypothetical protein
+BIMNHAED_00207	CDS	1197				hypothetical protein
+BIMNHAED_00208	CDS	780				hypothetical protein
+BIMNHAED_00209	CDS	1368	dinB_1	2.7.7.7		DNA polymerase IV
+BIMNHAED_00210	CDS	450				hypothetical protein
+BIMNHAED_00211	CDS	1545				hypothetical protein
+BIMNHAED_00212	CDS	249				hypothetical protein
+BIMNHAED_00213	CDS	327				hypothetical protein
+BIMNHAED_00214	CDS	1158				hypothetical protein
+BIMNHAED_00215	CDS	747	tmk	2.7.4.9	COG0125	Thymidylate kinase
+BIMNHAED_00216	CDS	1170		1.1.1.38		NAD-dependent malic enzyme
+BIMNHAED_00217	CDS	1314				hypothetical protein
+BIMNHAED_00218	tRNA	84				tRNA-Leu(caa)
+BIMNHAED_00219	CDS	1140				hypothetical protein
+BIMNHAED_00220	CDS	510				hypothetical protein
+BIMNHAED_00221	CDS	948	fbaB	4.1.2.13	COG1830	Fructose-bisphosphate aldolase class 1
+BIMNHAED_00222	CDS	780				hypothetical protein
+BIMNHAED_00223	CDS	819				hypothetical protein
+BIMNHAED_00224	CDS	573				hypothetical protein
+BIMNHAED_00225	CDS	1002	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+BIMNHAED_00226	CDS	1437	lysN_1	2.6.1.39	COG1167	2-aminoadipate transaminase
+BIMNHAED_00227	CDS	402				hypothetical protein
+BIMNHAED_00228	CDS	837				hypothetical protein
+BIMNHAED_00229	CDS	1296	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+BIMNHAED_00230	CDS	195				hypothetical protein
+BIMNHAED_00231	CDS	2433	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+BIMNHAED_00232	CDS	837	nfo_1	3.1.21.2	COG0648	putative endonuclease 4
+BIMNHAED_00233	CDS	810				hypothetical protein
+BIMNHAED_00234	CDS	1458				hypothetical protein
+BIMNHAED_00235	CDS	870				hypothetical protein
+BIMNHAED_00236	CDS	1443				hypothetical protein
+BIMNHAED_00237	CDS	1017	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+BIMNHAED_00238	CDS	858				hypothetical protein
+BIMNHAED_00239	CDS	1521	trkH_1		COG0168	Trk system potassium uptake protein TrkH
+BIMNHAED_00240	CDS	90				hypothetical protein
+BIMNHAED_00241	CDS	921	murB_2	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+BIMNHAED_00242	CDS	3843	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+BIMNHAED_00243	CDS	732				hypothetical protein
+BIMNHAED_00244	CDS	882	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+BIMNHAED_00245	CDS	1563	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+BIMNHAED_00246	CDS	711	regX3_2		COG0745	Sensory transduction protein regX3
+BIMNHAED_00247	CDS	1410				hypothetical protein
+BIMNHAED_00248	CDS	1251	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+BIMNHAED_00249	CDS	663	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+BIMNHAED_00250	CDS	909	resA			Thiol-disulfide oxidoreductase ResA
+BIMNHAED_00251	CDS	1350	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+BIMNHAED_00252	CDS	1578	ifcA_1	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_00253	CDS	1428				hypothetical protein
+BIMNHAED_00254	tRNA	91				tRNA-Ser(gct)
+BIMNHAED_00255	CDS	363				hypothetical protein
+BIMNHAED_00256	CDS	1065	ispE	2.7.1.148		Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+BIMNHAED_00257	CDS	1281				hypothetical protein
+BIMNHAED_00258	CDS	489	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+BIMNHAED_00259	tRNA	88				tRNA-Ser(tga)
+BIMNHAED_00260	CDS	1428	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+BIMNHAED_00261	tRNA	77				tRNA-Arg(acg)
+BIMNHAED_00262	CDS	1368				hypothetical protein
+BIMNHAED_00263	CDS	1362	mntH		COG1914	Divalent metal cation transporter MntH
+BIMNHAED_00264	CDS	486	nsrR			HTH-type transcriptional repressor NsrR
+BIMNHAED_00265	CDS	1647				hypothetical protein
+BIMNHAED_00266	CDS	1581	opuE_2		COG0591	Osmoregulated proline transporter OpuE
+BIMNHAED_00267	CDS	249				hypothetical protein
+BIMNHAED_00268	CDS	990	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+BIMNHAED_00269	CDS	2223	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+BIMNHAED_00270	CDS	1308	menF	5.4.4.2		Isochorismate synthase MenF
+BIMNHAED_00271	CDS	366				hypothetical protein
+BIMNHAED_00272	CDS	1017				hypothetical protein
+BIMNHAED_00273	CDS	459				hypothetical protein
+BIMNHAED_00274	CDS	276				hypothetical protein
+BIMNHAED_00275	CDS	564	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+BIMNHAED_00276	CDS	480	mscL			Large-conductance mechanosensitive channel
+BIMNHAED_00277	CDS	474	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+BIMNHAED_00278	CDS	786	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+BIMNHAED_00279	CDS	1701	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+BIMNHAED_00280	CDS	2241	murT	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+BIMNHAED_00281	tRNA	76				tRNA-Thr(cgt)
+BIMNHAED_00282	CDS	2760	uvrA_1		COG0178	UvrABC system protein A
+BIMNHAED_00283	CDS	429				hypothetical protein
+BIMNHAED_00284	CDS	336				hypothetical protein
+BIMNHAED_00285	CDS	1203				hypothetical protein
+BIMNHAED_00286	CDS	621	ttrB_1		COG0437	Tetrathionate reductase subunit B
+BIMNHAED_00287	CDS	2487	dmsA_1	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_00288	CDS	906				hypothetical protein
+BIMNHAED_00289	CDS	690				hypothetical protein
+BIMNHAED_00290	CDS	1581	ifcA_2	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_00291	CDS	924				hypothetical protein
+BIMNHAED_00292	CDS	1251				hypothetical protein
+BIMNHAED_00293	CDS	1476				hypothetical protein
+BIMNHAED_00294	CDS	594				hypothetical protein
+BIMNHAED_00295	CDS	570	azoR	1.7.1.17		FMN-dependent NADH-azoreductase
+BIMNHAED_00296	CDS	366				hypothetical protein
+BIMNHAED_00297	CDS	1425	pyrP_1			Uracil permease
+BIMNHAED_00298	CDS	369				hypothetical protein
+BIMNHAED_00299	CDS	246				hypothetical protein
+BIMNHAED_00300	CDS	1023				hypothetical protein
+BIMNHAED_00301	CDS	588				hypothetical protein
+BIMNHAED_00302	CDS	1404				hypothetical protein
+BIMNHAED_00303	CDS	1491				hypothetical protein
+BIMNHAED_00304	CDS	330	trxA		COG0526	Thioredoxin
+BIMNHAED_00305	CDS	1299				hypothetical protein
+BIMNHAED_00306	CDS	2217				hypothetical protein
+BIMNHAED_00307	CDS	981	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+BIMNHAED_00308	CDS	447				hypothetical protein
+BIMNHAED_00309	CDS	273				hypothetical protein
+BIMNHAED_00310	CDS	453				hypothetical protein
+BIMNHAED_00311	CDS	669				hypothetical protein
+BIMNHAED_00312	CDS	489				hypothetical protein
+BIMNHAED_00313	CDS	309				hypothetical protein
+BIMNHAED_00314	CDS	1269				hypothetical protein
+BIMNHAED_00315	CDS	165				hypothetical protein
+BIMNHAED_00316	CDS	450				hypothetical protein
+BIMNHAED_00317	CDS	858	rhaR_2			HTH-type transcriptional activator RhaR
+BIMNHAED_00318	CDS	474	yjaB	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YjaB
+BIMNHAED_00319	CDS	1410	ribZ_2			Riboflavin transporter RibZ
+BIMNHAED_00320	CDS	651	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+	repeat_region	434				
+BIMNHAED_00321	CDS	735				hypothetical protein
+BIMNHAED_00322	CDS	663	ttrB_2		COG0437	Tetrathionate reductase subunit B
+BIMNHAED_00323	CDS	2481	dmsA_2	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_00324	CDS	711	walR_1		COG0745	Transcriptional regulatory protein WalR
+BIMNHAED_00325	CDS	1716	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_00326	CDS	672				hypothetical protein
+BIMNHAED_00327	tRNA	83				tRNA-Leu(taa)
+BIMNHAED_00328	CDS	951	ppx2	3.6.1.11	COG0248	Exopolyphosphatase 2
+BIMNHAED_00329	CDS	594				hypothetical protein
+BIMNHAED_00330	CDS	759				hypothetical protein
+BIMNHAED_00331	CDS	2724	napA_1	1.9.6.1		Periplasmic nitrate reductase
+BIMNHAED_00332	CDS	609	soeB_1		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_00333	CDS	891				hypothetical protein
+BIMNHAED_00334	CDS	735	arsM	2.1.1.137		Arsenite methyltransferase
+BIMNHAED_00335	CDS	141				hypothetical protein
+BIMNHAED_00336	CDS	1257	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+BIMNHAED_00337	CDS	1056	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+BIMNHAED_00338	CDS	285				hypothetical protein
+BIMNHAED_00339	CDS	357				hypothetical protein
+BIMNHAED_00340	CDS	402	msrQ_2			Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ
+BIMNHAED_00341	CDS	408	vapC2	3.1.-.-	COG1487	Ribonuclease VapC2
+BIMNHAED_00342	CDS	234				hypothetical protein
+BIMNHAED_00343	CDS	1317	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+BIMNHAED_00344	CDS	504				hypothetical protein
+BIMNHAED_00345	CDS	1596				hypothetical protein
+BIMNHAED_00346	CDS	1563				hypothetical protein
+BIMNHAED_00347	CDS	381				hypothetical protein
+BIMNHAED_00348	CDS	711	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+BIMNHAED_00349	CDS	141				hypothetical protein
+BIMNHAED_00350	CDS	1455				hypothetical protein
+BIMNHAED_00351	CDS	570	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+BIMNHAED_00352	CDS	2145				hypothetical protein
+BIMNHAED_00353	CDS	663				hypothetical protein
+BIMNHAED_00354	CDS	1353	hldE	2.7.7.70		Bifunctional protein HldE
+BIMNHAED_00355	CDS	1059	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+BIMNHAED_00356	CDS	1110				hypothetical protein
+BIMNHAED_00357	CDS	2706	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BIMNHAED_00358	CDS	1236				hypothetical protein
+BIMNHAED_00359	CDS	165				hypothetical protein
+BIMNHAED_00360	CDS	1539	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+BIMNHAED_00361	CDS	1185				hypothetical protein
+BIMNHAED_00362	CDS	255	dltC		COG0236	D-alanyl carrier protein
+BIMNHAED_00363	CDS	1527				hypothetical protein
+BIMNHAED_00364	CDS	117				hypothetical protein
+BIMNHAED_00365	CDS	1032				hypothetical protein
+BIMNHAED_00366	CDS	921				hypothetical protein
+BIMNHAED_00367	CDS	1605				hypothetical protein
+BIMNHAED_00368	CDS	894	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2
+BIMNHAED_00369	CDS	1371	gltS			Sodium/glutamate symporter
+BIMNHAED_00370	CDS	1194	lysA_1	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+BIMNHAED_00371	CDS	1026		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+BIMNHAED_00372	CDS	921	arnC_2	2.4.2.53	COG0463	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BIMNHAED_00373	CDS	348				hypothetical protein
+BIMNHAED_00374	CDS	447				hypothetical protein
+BIMNHAED_00375	CDS	1260	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+BIMNHAED_00376	CDS	1014	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+BIMNHAED_00377	CDS	3147				hypothetical protein
+BIMNHAED_00378	CDS	678				hypothetical protein
+BIMNHAED_00379	CDS	585				hypothetical protein
+BIMNHAED_00380	CDS	1791	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+BIMNHAED_00381	CDS	738				hypothetical protein
+BIMNHAED_00382	CDS	207				hypothetical protein
+BIMNHAED_00383	CDS	1071	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+BIMNHAED_00384	CDS	855				hypothetical protein
+BIMNHAED_00385	CDS	534				hypothetical protein
+BIMNHAED_00386	CDS	555				hypothetical protein
+BIMNHAED_00387	CDS	1674	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+BIMNHAED_00388	CDS	717				hypothetical protein
+BIMNHAED_00389	CDS	537	rbr1	1.11.1.1	COG1592	Rubrerythrin-1
+BIMNHAED_00390	CDS	597	pyrR			Bifunctional protein PyrR
+BIMNHAED_00391	CDS	945	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+BIMNHAED_00392	CDS	1293	pyrC	3.5.2.3	COG0044	Dihydroorotase
+BIMNHAED_00393	CDS	984	fhuD		COG0614	Iron(3+)-hydroxamate-binding protein FhuD
+BIMNHAED_00394	CDS	1008	feuB		COG0609	Iron-uptake system permease protein FeuB
+BIMNHAED_00395	CDS	1005	yfhA		COG0609	putative siderophore transport system permease protein YfhA
+BIMNHAED_00396	CDS	918	yusV		COG1120	putative siderophore transport system ATP-binding protein YusV
+BIMNHAED_00397	CDS	1353	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+BIMNHAED_00398	CDS	3216	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+BIMNHAED_00399	CDS	144				hypothetical protein
+BIMNHAED_00400	CDS	585	engB		COG0218	putative GTP-binding protein EngB
+BIMNHAED_00401	CDS	234				hypothetical protein
+BIMNHAED_00402	CDS	792				hypothetical protein
+BIMNHAED_00403	CDS	777				hypothetical protein
+BIMNHAED_00404	CDS	855				hypothetical protein
+BIMNHAED_00405	CDS	942				hypothetical protein
+BIMNHAED_00406	CDS	552	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+BIMNHAED_00407	CDS	2520	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+BIMNHAED_00408	CDS	495				hypothetical protein
+BIMNHAED_00409	CDS	582				hypothetical protein
+BIMNHAED_00410	CDS	771				hypothetical protein
+BIMNHAED_00411	CDS	840				hypothetical protein
+BIMNHAED_00412	CDS	1134				hypothetical protein
+BIMNHAED_00413	CDS	216				hypothetical protein
+BIMNHAED_00414	CDS	1101				hypothetical protein
+BIMNHAED_00415	CDS	657	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+BIMNHAED_00416	CDS	1011				hypothetical protein
+BIMNHAED_00417	CDS	942	peb1A		COG0834	Major cell-binding factor
+BIMNHAED_00418	CDS	732	glnQ_1			Glutamine transport ATP-binding protein GlnQ
+BIMNHAED_00419	CDS	1095				hypothetical protein
+BIMNHAED_00420	CDS	687	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+BIMNHAED_00421	CDS	897	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+BIMNHAED_00422	CDS	204	cspLA		COG1278	Cold shock-like protein CspLA
+BIMNHAED_00423	CDS	414				hypothetical protein
+BIMNHAED_00424	CDS	1089	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+BIMNHAED_00425	CDS	594	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+BIMNHAED_00426	CDS	477	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+BIMNHAED_00427	CDS	1002				hypothetical protein
+BIMNHAED_00428	CDS	1116				hypothetical protein
+BIMNHAED_00429	CDS	300				hypothetical protein
+BIMNHAED_00430	CDS	204				hypothetical protein
+BIMNHAED_00431	CDS	801	fabG2	1.-.-.-		putative oxidoreductase
+BIMNHAED_00432	CDS	801	yebC		COG0217	putative transcriptional regulatory protein YebC
+BIMNHAED_00433	CDS	1170	ribD		COG0117	Riboflavin biosynthesis protein RibD
+BIMNHAED_00434	CDS	660	ribE	2.5.1.9	COG0307	Riboflavin synthase
+BIMNHAED_00435	CDS	1236	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+BIMNHAED_00436	CDS	468	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+BIMNHAED_00437	CDS	678	gph	3.1.3.18		Phosphoglycolate phosphatase
+BIMNHAED_00438	CDS	1497				hypothetical protein
+BIMNHAED_00439	CDS	1794				hypothetical protein
+BIMNHAED_00440	CDS	501	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+BIMNHAED_00441	CDS	1002	moaA_1	4.1.99.22		GTP 3',8-cyclase
+BIMNHAED_00442	CDS	1566				hypothetical protein
+BIMNHAED_00443	CDS	738				hypothetical protein
+BIMNHAED_00444	CDS	738	torD_1			Chaperone protein TorD
+BIMNHAED_00445	CDS	612	soeB_2		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_00446	CDS	2889	napA_2	1.9.6.1		Periplasmic nitrate reductase
+BIMNHAED_00447	CDS	696				hypothetical protein
+BIMNHAED_00448	CDS	1107	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_00449	CDS	1536				hypothetical protein
+BIMNHAED_00450	CDS	924	modA		COG0725	Molybdate-binding protein ModA
+BIMNHAED_00451	CDS	897				hypothetical protein
+BIMNHAED_00452	rRNA	93				5S ribosomal RNA (partial)
+BIMNHAED_00453	CDS	1323				hypothetical protein
+BIMNHAED_00454	CDS	705	torD_2			Chaperone protein TorD
+BIMNHAED_00455	CDS	621	ttrB_3		COG0437	Tetrathionate reductase subunit B
+BIMNHAED_00456	CDS	2466	dmsA_3	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_00457	CDS	825				hypothetical protein
+BIMNHAED_00458	CDS	1317				hypothetical protein
+BIMNHAED_00459	CDS	1236	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+BIMNHAED_00460	CDS	948	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+BIMNHAED_00461	CDS	1299	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+BIMNHAED_00462	CDS	1059	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+BIMNHAED_00463	CDS	429	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+BIMNHAED_00464	CDS	282				hypothetical protein
+BIMNHAED_00465	CDS	1149				hypothetical protein
+BIMNHAED_00466	CDS	783				hypothetical protein
+BIMNHAED_00467	CDS	885				hypothetical protein
+BIMNHAED_00468	CDS	1473				hypothetical protein
+BIMNHAED_00469	CDS	1473				hypothetical protein
+BIMNHAED_00470	CDS	1560	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+BIMNHAED_00471	CDS	273				hypothetical protein
+BIMNHAED_00472	CDS	870				hypothetical protein
+BIMNHAED_00473	CDS	222				hypothetical protein
+BIMNHAED_00474	CDS	786				hypothetical protein
+BIMNHAED_00475	CDS	666				hypothetical protein
+BIMNHAED_00476	CDS	645	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+BIMNHAED_00477	CDS	285				hypothetical protein
+BIMNHAED_00478	CDS	492	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+BIMNHAED_00479	CDS	843	ispD	2.7.7.60		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+BIMNHAED_00480	CDS	2586	clpC1			ATP-dependent Clp protease ATP-binding subunit ClpC1
+BIMNHAED_00481	CDS	1020				hypothetical protein
+BIMNHAED_00482	CDS	2001	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+BIMNHAED_00483	CDS	471	greA		COG0782	Transcription elongation factor GreA
+BIMNHAED_00484	CDS	714				hypothetical protein
+BIMNHAED_00485	CDS	1641				hypothetical protein
+BIMNHAED_00486	CDS	1434				hypothetical protein
+BIMNHAED_00487	CDS	2697	secDF		COG0341	Protein translocase subunit SecDF
+BIMNHAED_00488	CDS	324				hypothetical protein
+BIMNHAED_00489	CDS	225				hypothetical protein
+BIMNHAED_00490	CDS	834				hypothetical protein
+BIMNHAED_00491	CDS	1101	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BIMNHAED_00492	CDS	1014	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+BIMNHAED_00493	CDS	1014				hypothetical protein
+BIMNHAED_00494	CDS	999	hmuU		COG0609	Hemin transport system permease protein HmuU
+BIMNHAED_00495	CDS	897	fecE		COG1120	Fe(3+) dicitrate transport ATP-binding protein FecE
+BIMNHAED_00496	CDS	642	ribU		COG3601	Riboflavin transporter RibU
+BIMNHAED_00497	CDS	837	ecfA1_1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+BIMNHAED_00498	CDS	924	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+BIMNHAED_00499	CDS	813	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+BIMNHAED_00500	CDS	426				hypothetical protein
+BIMNHAED_00501	CDS	1431	alsT_1		COG1115	Amino-acid carrier protein AlsT
+BIMNHAED_00502	CDS	1431	alsT_2		COG1115	Amino-acid carrier protein AlsT
+BIMNHAED_00503	CDS	1383	baiN	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+BIMNHAED_00504	CDS	1824				hypothetical protein
+BIMNHAED_00505	CDS	786	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+BIMNHAED_00506	CDS	1008		3.1.1.23	COG2267	Monoacylglycerol lipase
+BIMNHAED_00507	CDS	1047	mcrC		COG4268	Protein McrC
+BIMNHAED_00508	CDS	2181				hypothetical protein
+BIMNHAED_00509	CDS	1491	glpK	2.7.1.30	COG0554	Glycerol kinase
+BIMNHAED_00510	CDS	435	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+BIMNHAED_00511	CDS	1257	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+BIMNHAED_00512	CDS	642	upp	2.4.2.9		Uracil phosphoribosyltransferase
+BIMNHAED_00513	CDS	459	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+BIMNHAED_00514	CDS	285				hypothetical protein
+BIMNHAED_00515	CDS	774	atpB		COG0356	ATP synthase subunit a
+BIMNHAED_00516	CDS	219	atpH_1			ATP synthase subunit c
+BIMNHAED_00517	CDS	612	atpF			ATP synthase subunit b
+BIMNHAED_00518	CDS	579	atpH_2			ATP synthase subunit delta
+BIMNHAED_00519	CDS	1566	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+BIMNHAED_00520	CDS	930	atpG			ATP synthase gamma chain
+BIMNHAED_00521	CDS	1446	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+BIMNHAED_00522	CDS	429	atpC			ATP synthase epsilon chain
+BIMNHAED_00523	CDS	297				hypothetical protein
+BIMNHAED_00524	CDS	465				hypothetical protein
+BIMNHAED_00525	CDS	195				hypothetical protein
+BIMNHAED_00526	CDS	255				hypothetical protein
+BIMNHAED_00527	CDS	483				hypothetical protein
+BIMNHAED_00528	CDS	1038				hypothetical protein
+BIMNHAED_00529	CDS	2901				hypothetical protein
+BIMNHAED_00530	CDS	1134	wecE	2.6.1.59	COG0399	dTDP-4-amino-4,6-dideoxygalactose transaminase
+BIMNHAED_00531	CDS	2823				hypothetical protein
+BIMNHAED_00532	CDS	1077				hypothetical protein
+BIMNHAED_00533	CDS	693	hrb		COG1773	High molecular weight rubredoxin
+BIMNHAED_00534	CDS	1167	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+BIMNHAED_00535	CDS	369				hypothetical protein
+BIMNHAED_00536	CDS	1146	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+BIMNHAED_00537	CDS	1098	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+BIMNHAED_00538	CDS	1059				hypothetical protein
+BIMNHAED_00539	CDS	777	htpX	3.4.24.-		Protease HtpX
+BIMNHAED_00540	CDS	438				hypothetical protein
+BIMNHAED_00541	CDS	714	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+BIMNHAED_00542	CDS	792	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+BIMNHAED_00543	CDS	705	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+BIMNHAED_00544	CDS	591	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+BIMNHAED_00545	CDS	1095	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+BIMNHAED_00546	CDS	1362	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+BIMNHAED_00547	CDS	1722	hisZ			ATP phosphoribosyltransferase regulatory subunit
+BIMNHAED_00548	CDS	864	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+BIMNHAED_00549	CDS	732	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+BIMNHAED_00550	CDS	384	adhR		COG0789	HTH-type transcriptional regulator AdhR
+BIMNHAED_00551	CDS	627	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+BIMNHAED_00552	CDS	876	murI	5.1.1.3		Glutamate racemase
+BIMNHAED_00553	CDS	1695				hypothetical protein
+BIMNHAED_00554	tmRNA	404	ssrA			transfer-messenger RNA, SsrA
+BIMNHAED_00555	tmRNA	379	ssrA			transfer-messenger RNA, SsrA
+BIMNHAED_00556	CDS	954	cbh	3.5.1.24		Choloylglycine hydrolase
+BIMNHAED_00557	CDS	633				hypothetical protein
+BIMNHAED_00558	CDS	468	smpB		COG0691	SsrA-binding protein
+BIMNHAED_00559	CDS	1170	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+BIMNHAED_00560	CDS	297				hypothetical protein
+BIMNHAED_00561	tRNA	75				tRNA-Thr(tgt)
+BIMNHAED_00562	CDS	684	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+BIMNHAED_00563	CDS	849				hypothetical protein
+BIMNHAED_00564	CDS	1518				hypothetical protein
+BIMNHAED_00565	CDS	948				hypothetical protein
+BIMNHAED_00566	CDS	903			COG1307	DegV domain-containing protein
+BIMNHAED_00567	CDS	846				hypothetical protein
+BIMNHAED_00568	CDS	1005				hypothetical protein
+BIMNHAED_00569	CDS	927			COG1307	DegV domain-containing protein
+BIMNHAED_00570	CDS	1455	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+BIMNHAED_00571	CDS	819	expZ		COG0488	Nucleotide-binding protein ExpZ
+BIMNHAED_00572	CDS	1281	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BIMNHAED_00573	CDS	939				hypothetical protein
+BIMNHAED_00574	CDS	381	mntR		COG1321	Transcriptional regulator MntR
+BIMNHAED_00575	CDS	687				hypothetical protein
+BIMNHAED_00576	CDS	1251	arcA_1	3.5.3.6		Arginine deiminase
+BIMNHAED_00577	CDS	1431				hypothetical protein
+BIMNHAED_00578	CDS	1248	arcA_2	3.5.3.6	COG2235	Arginine deiminase
+BIMNHAED_00579	CDS	1008	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+BIMNHAED_00580	CDS	585				hypothetical protein
+BIMNHAED_00581	CDS	2421	ynfF_2	1.8.99.-	COG1104	putative dimethyl sulfoxide reductase chain YnfF
+BIMNHAED_00582	CDS	618	soeB_3		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_00583	CDS	1167				hypothetical protein
+BIMNHAED_00584	CDS	687	torD_3			Chaperone protein TorD
+BIMNHAED_00585	CDS	900				hypothetical protein
+BIMNHAED_00586	CDS	2364	ynfE_1	1.8.99.-	COG0243	Putative dimethyl sulfoxide reductase chain YnfE
+BIMNHAED_00587	CDS	669	dmsB_2		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_00588	CDS	204				hypothetical protein
+BIMNHAED_00589	CDS	873	rnc	3.1.26.3		Ribonuclease 3
+BIMNHAED_00590	CDS	1059	plsX	2.3.1.274		Phosphate acyltransferase
+BIMNHAED_00591	CDS	180	rpmF			50S ribosomal protein L32
+BIMNHAED_00592	CDS	1362	eriC		COG0038	Chloride/fluoride channel protein
+BIMNHAED_00593	CDS	558			COG1399	putative protein
+BIMNHAED_00594	CDS	459				hypothetical protein
+BIMNHAED_00595	CDS	585	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+BIMNHAED_00596	CDS	2184	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+BIMNHAED_00597	CDS	1635				putative protein
+BIMNHAED_00598	CDS	348				putative protein
+BIMNHAED_00599	CDS	192	rpmB		COG0227	50S ribosomal protein L28
+BIMNHAED_00600	CDS	717				hypothetical protein
+BIMNHAED_00601	CDS	909				hypothetical protein
+BIMNHAED_00602	CDS	816				hypothetical protein
+BIMNHAED_00603	CDS	1299	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+BIMNHAED_00604	CDS	711	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+BIMNHAED_00605	CDS	468	ogt_1	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+BIMNHAED_00606	CDS	1314				hypothetical protein
+BIMNHAED_00607	CDS	2559	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_00608	CDS	999	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+BIMNHAED_00609	CDS	702	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+BIMNHAED_00610	CDS	1314	der_1		COG1160	GTPase Der
+BIMNHAED_00611	CDS	1629				hypothetical protein
+BIMNHAED_00612	CDS	897	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+BIMNHAED_00613	CDS	870				hypothetical protein
+BIMNHAED_00614	CDS	672	cmk	2.7.4.25	COG0283	Cytidylate kinase
+BIMNHAED_00615	CDS	1338	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+BIMNHAED_00616	CDS	1176				hypothetical protein
+BIMNHAED_00617	CDS	1194				hypothetical protein
+BIMNHAED_00618	CDS	108				hypothetical protein
+BIMNHAED_00619	CDS	315				hypothetical protein
+BIMNHAED_00620	CDS	435				hypothetical protein
+BIMNHAED_00621	CDS	1419				hypothetical protein
+BIMNHAED_00622	CDS	2265	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_00623	CDS	945				hypothetical protein
+BIMNHAED_00624	CDS	399	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+BIMNHAED_00625	CDS	852	panC	6.3.2.1	COG0414	Pantothenate synthetase
+BIMNHAED_00626	CDS	825	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+BIMNHAED_00627	CDS	828	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+BIMNHAED_00628	CDS	981	scpB			Segregation and condensation protein B
+BIMNHAED_00629	CDS	792	scpA		COG1354	Segregation and condensation protein A
+BIMNHAED_00630	CDS	717				hypothetical protein
+BIMNHAED_00631	CDS	1908	urdA_1	1.3.99.33	COG0431	Urocanate reductase
+BIMNHAED_00632	CDS	1458				hypothetical protein
+BIMNHAED_00633	CDS	1776	nhaK_1		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+BIMNHAED_00634	CDS	462	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+BIMNHAED_00635	CDS	2190	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_00636	CDS	462				hypothetical protein
+BIMNHAED_00637	CDS	1284				hypothetical protein
+BIMNHAED_00638	tRNA	75				tRNA-Val(cac)
+BIMNHAED_00639	CDS	1059	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+BIMNHAED_00640	CDS	2043	nhaK_2		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+BIMNHAED_00641	CDS	1662				hypothetical protein
+BIMNHAED_00642	tRNA	76				tRNA-Lys(ctt)
+BIMNHAED_00643	tRNA	77				tRNA-His(gtg)
+BIMNHAED_00644	CDS	714	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+BIMNHAED_00645	CDS	1134				hypothetical protein
+BIMNHAED_00646	tRNA	75				tRNA-Met(cat)
+BIMNHAED_00647	CDS	1728	argS	6.1.1.19		Arginine--tRNA ligase
+BIMNHAED_00648	CDS	1443				hypothetical protein
+BIMNHAED_00649	CDS	129				hypothetical protein
+BIMNHAED_00650	CDS	996	arcB_1	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+BIMNHAED_00651	CDS	1224	arcA_3	3.5.3.6	COG2235	Arginine deiminase
+BIMNHAED_00652	tRNA	77				tRNA-Pro(tgg)
+BIMNHAED_00653	CDS	1260				hypothetical protein
+BIMNHAED_00654	CDS	1080				hypothetical protein
+BIMNHAED_00655	CDS	1824				hypothetical protein
+BIMNHAED_00656	CDS	1548				hypothetical protein
+BIMNHAED_00657	CDS	1599	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+BIMNHAED_00658	CDS	516				hypothetical protein
+BIMNHAED_00659	CDS	270				hypothetical protein
+BIMNHAED_00660	tRNA	74				tRNA-Gly(tcc)
+BIMNHAED_00661	tRNA	76				tRNA-Arg(tct)
+BIMNHAED_00662	CDS	918	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+BIMNHAED_00663	CDS	1191	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+BIMNHAED_00664	CDS	438				hypothetical protein
+BIMNHAED_00665	CDS	672				hypothetical protein
+BIMNHAED_00666	CDS	657				hypothetical protein
+BIMNHAED_00667	CDS	1344		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+BIMNHAED_00668	CDS	312				hypothetical protein
+BIMNHAED_00669	CDS	1584	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+BIMNHAED_00670	CDS	1494	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+BIMNHAED_00671	CDS	312	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+BIMNHAED_00672	CDS	720				hypothetical protein
+BIMNHAED_00673	CDS	1053				hypothetical protein
+BIMNHAED_00674	CDS	1263	yfcJ			putative MFS-type transporter YfcJ
+BIMNHAED_00675	CDS	714				hypothetical protein
+BIMNHAED_00676	CDS	1074	ychF		COG0012	Ribosome-binding ATPase YchF
+BIMNHAED_00677	CDS	1383				hypothetical protein
+BIMNHAED_00678	CDS	1122				hypothetical protein
+BIMNHAED_00679	CDS	897				hypothetical protein
+BIMNHAED_00680	CDS	813	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+BIMNHAED_00681	CDS	3459	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+BIMNHAED_00682	CDS	1323				hypothetical protein
+BIMNHAED_00683	CDS	333	dnaA_1			Chromosomal replication initiator protein DnaA
+BIMNHAED_00684	CDS	990				hypothetical protein
+BIMNHAED_00685	CDS	1290				hypothetical protein
+BIMNHAED_00686	CDS	1986				hypothetical protein
+BIMNHAED_00687	CDS	3075				hypothetical protein
+BIMNHAED_00688	CDS	999	arcB_2	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+BIMNHAED_00689	CDS	1224	arcA_4	3.5.3.6	COG2235	Arginine deiminase
+BIMNHAED_00690	CDS	1629	nfdA_1	3.5.1.91		N-substituted formamide deformylase
+BIMNHAED_00691	CDS	924	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+BIMNHAED_00692	CDS	456				hypothetical protein
+BIMNHAED_00693	CDS	324				hypothetical protein
+BIMNHAED_00694	CDS	576				hypothetical protein
+BIMNHAED_00695	CDS	795	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+BIMNHAED_00696	CDS	933	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+BIMNHAED_00697	CDS	729	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+BIMNHAED_00698	CDS	312				hypothetical protein
+BIMNHAED_00699	CDS	567	gmk	2.7.4.8	COG0194	Guanylate kinase
+BIMNHAED_00700	CDS	261	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+BIMNHAED_00701	CDS	1215	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+BIMNHAED_00702	CDS	783				hypothetical protein
+BIMNHAED_00703	CDS	2361	comEC		COG0658	ComE operon protein 3
+BIMNHAED_00704	CDS	987	yqeN		COG1466	putative protein YqeN
+BIMNHAED_00705	CDS	1128	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+BIMNHAED_00706	CDS	525				hypothetical protein
+BIMNHAED_00707	CDS	1977	lepA	3.6.5.-		Elongation factor 4
+BIMNHAED_00708	CDS	648	sgcG	1.3.99.24		2-amino-4-deoxychorismate dehydrogenase
+BIMNHAED_00709	CDS	183				hypothetical protein
+BIMNHAED_00710	CDS	972	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+BIMNHAED_00711	CDS	1173	hemW_1		COG0635	Heme chaperone HemW
+BIMNHAED_00712	CDS	1011	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+BIMNHAED_00713	CDS	1149	dnaJ_2		COG0484	Chaperone protein DnaJ
+BIMNHAED_00714	CDS	822	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+BIMNHAED_00715	CDS	1239	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+BIMNHAED_00716	CDS	960			COG1702	PhoH-like protein
+BIMNHAED_00717	CDS	489	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+BIMNHAED_00718	CDS	396	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+BIMNHAED_00719	CDS	954	era			GTPase Era
+BIMNHAED_00720	CDS	2274				hypothetical protein
+BIMNHAED_00721	CDS	768	recO			DNA repair protein RecO
+BIMNHAED_00722	CDS	288	rpsO		COG0184	30S ribosomal protein S15
+BIMNHAED_00723	CDS	2241	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+BIMNHAED_00724	CDS	768	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+BIMNHAED_00725	CDS	903	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+BIMNHAED_00726	CDS	1878	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+BIMNHAED_00727	CDS	2577				hypothetical protein
+BIMNHAED_00728	CDS	1164				hypothetical protein
+BIMNHAED_00729	CDS	498				hypothetical protein
+BIMNHAED_00730	CDS	1314	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+BIMNHAED_00731	CDS	1179	cinA			Putative competence-damage inducible protein
+BIMNHAED_00732	CDS	1056	recA		COG0468	Protein RecA
+BIMNHAED_00733	CDS	708	recX			Regulatory protein RecX
+BIMNHAED_00734	CDS	1572	rny	3.1.-.-	COG1418	Ribonuclease Y
+BIMNHAED_00735	CDS	1086	mutL			DNA mismatch repair protein MutL
+BIMNHAED_00736	CDS	333				hypothetical protein
+BIMNHAED_00737	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+BIMNHAED_00738	CDS	951	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+BIMNHAED_00739	CDS	924	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+BIMNHAED_00740	CDS	1323	hflX		COG2262	GTPase HflX
+BIMNHAED_00741	CDS	639	lexA_1	3.4.21.88	COG1974	LexA repressor
+BIMNHAED_00742	CDS	447	nrdR		COG1327	Transcriptional repressor NrdR
+BIMNHAED_00743	CDS	435	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BIMNHAED_00744	CDS	510				hypothetical protein
+BIMNHAED_00745	CDS	600				hypothetical protein
+BIMNHAED_00746	CDS	930	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BIMNHAED_00747	CDS	954	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+BIMNHAED_00748	CDS	1386		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+BIMNHAED_00749	CDS	444				hypothetical protein
+BIMNHAED_00750	CDS	594				hypothetical protein
+BIMNHAED_00751	CDS	1725				hypothetical protein
+BIMNHAED_00752	CDS	444				hypothetical protein
+BIMNHAED_00753	CDS	1515				hypothetical protein
+BIMNHAED_00754	CDS	432				hypothetical protein
+BIMNHAED_00755	CDS	1308	paaK_1	6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+BIMNHAED_00756	CDS	2355				hypothetical protein
+BIMNHAED_00757	CDS	687	pgsA2	2.7.8.41	COG0558	Putative cardiolipin synthase
+BIMNHAED_00758	CDS	366	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BIMNHAED_00759	CDS	1089	hycE		COG3261	Formate hydrogenlyase subunit 5
+BIMNHAED_00760	CDS	690				hypothetical protein
+BIMNHAED_00761	CDS	444	hycG		COG3260	Formate hydrogenlyase subunit 7
+BIMNHAED_00762	CDS	870	hycD		COG0650	Formate hydrogenlyase subunit 4
+BIMNHAED_00763	CDS	1935	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+BIMNHAED_00764	CDS	1347	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+BIMNHAED_00765	CDS	441				hypothetical protein
+BIMNHAED_00766	tRNA	77				tRNA-Pro(ggg)
+BIMNHAED_00767	CDS	1623		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_00768	CDS	957				hypothetical protein
+BIMNHAED_00769	CDS	1326	hemW_2		COG0635	Heme chaperone HemW
+BIMNHAED_00770	CDS	180				hypothetical protein
+BIMNHAED_00771	CDS	936				hypothetical protein
+BIMNHAED_00772	CDS	1884	urdA_2	1.3.99.33	COG0431	Urocanate reductase
+BIMNHAED_00773	CDS	1176	hemH	4.99.1.1		Ferrochelatase
+BIMNHAED_00774	CDS	1068	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+BIMNHAED_00775	CDS	576	lspA	3.4.23.36		Lipoprotein signal peptidase
+BIMNHAED_00776	CDS	2847	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+BIMNHAED_00777	CDS	873			COG1307	DegV domain-containing protein
+BIMNHAED_00778	CDS	1299	dinB_2	2.7.7.7		DNA polymerase IV
+BIMNHAED_00779	CDS	828	coaX_1	2.7.1.33	COG1521	Type III pantothenate kinase
+BIMNHAED_00780	CDS	1020				hypothetical protein
+BIMNHAED_00781	CDS	1230	rfbD	5.4.99.9		UDP-galactopyranose mutase
+BIMNHAED_00782	CDS	1011	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+BIMNHAED_00783	CDS	1458				hypothetical protein
+BIMNHAED_00784	CDS	1959				hypothetical protein
+BIMNHAED_00785	CDS	1224	ackA_1	2.7.2.1	COG0282	Acetate kinase
+BIMNHAED_00786	CDS	267	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+BIMNHAED_00787	CDS	1452	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+BIMNHAED_00788	CDS	666				hypothetical protein
+BIMNHAED_00789	CDS	1149	rnd	3.1.13.5	COG0349	Ribonuclease D
+BIMNHAED_00790	CDS	939	yegS	2.7.1.-		lipid kinase YegS
+BIMNHAED_00791	CDS	1500	ydgI		COG0531	Putative arginine/ornithine antiporter
+BIMNHAED_00792	CDS	426				hypothetical protein
+BIMNHAED_00793	CDS	1821				hypothetical protein
+BIMNHAED_00794	CDS	672	lexA_2	3.4.21.88		LexA repressor
+BIMNHAED_00795	CDS	768				hypothetical protein
+BIMNHAED_00796	CDS	567				hypothetical protein
+BIMNHAED_00797	CDS	480				hypothetical protein
+BIMNHAED_00798	CDS	555	xerC_1		COG4973	Tyrosine recombinase XerC
+BIMNHAED_00799	tRNA	75				tRNA-Val(gac)
+BIMNHAED_00800	CDS	465				hypothetical protein
+BIMNHAED_00801	tRNA	76				tRNA-Gly(gcc)
+BIMNHAED_00802	tRNA	74				tRNA-Cys(gca)
+BIMNHAED_00803	tRNA	76				tRNA-Gly(gcc)
+BIMNHAED_00804	CDS	909				hypothetical protein
+BIMNHAED_00805	CDS	921				hypothetical protein
+BIMNHAED_00806	CDS	900			COG0053	putative cation efflux system protein
+BIMNHAED_00807	tRNA	89				tRNA-Leu(gag)
+BIMNHAED_00808	CDS	255				hypothetical protein
+BIMNHAED_00809	CDS	1581	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BIMNHAED_00810	CDS	771	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+BIMNHAED_00811	CDS	1188	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+BIMNHAED_00812	CDS	1005	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+BIMNHAED_00813	CDS	939	whiA		COG1481	putative cell division protein WhiA
+BIMNHAED_00814	CDS	1158				Gluconeogenesis factor
+BIMNHAED_00815	CDS	972				Nucleotide-binding protein
+BIMNHAED_00816	CDS	2223	uvrC		COG0322	UvrABC system protein C
+BIMNHAED_00817	CDS	1959				hypothetical protein
+BIMNHAED_00818	CDS	927	ribF			Bifunctional riboflavin kinase/FMN adenylyltransferase
+BIMNHAED_00819	CDS	1017	truB	5.4.99.25		tRNA pseudouridine synthase B
+BIMNHAED_00820	CDS	1008	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+BIMNHAED_00821	CDS	390	rbfA		COG0858	30S ribosome-binding factor
+BIMNHAED_00822	CDS	2736	infB			Translation initiation factor IF-2
+BIMNHAED_00823	CDS	291				hypothetical protein
+BIMNHAED_00824	CDS	1206	nusA		COG0195	Transcription termination/antitermination protein NusA
+BIMNHAED_00825	CDS	474	rimP		COG0779	Ribosome maturation factor RimP
+BIMNHAED_00826	CDS	207				hypothetical protein
+BIMNHAED_00827	CDS	759	hdfR_1			HTH-type transcriptional regulator HdfR
+BIMNHAED_00828	CDS	1281				hypothetical protein
+BIMNHAED_00829	CDS	1161	caiA_1	1.3.8.13	COG1960	Crotonobetainyl-CoA reductase
+BIMNHAED_00830	CDS	1311	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+BIMNHAED_00831	CDS	849				hypothetical protein
+BIMNHAED_00832	CDS	633		1.6.5.2		NAD(P)H dehydrogenase (quinone)
+BIMNHAED_00833	CDS	879		4.2.1.17	COG1024	putative enoyl-CoA hydratase echA12
+BIMNHAED_00834	CDS	1626	fadK_1	6.2.1.-	COG0318	Medium-chain fatty-acid--CoA ligase
+BIMNHAED_00835	CDS	1635	fadK_2	6.2.1.-	COG0318	Medium-chain fatty-acid--CoA ligase
+BIMNHAED_00836	CDS	1143	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+BIMNHAED_00837	CDS	813	gloB_3	3.1.2.6		Hydroxyacylglutathione hydrolase
+BIMNHAED_00838	CDS	1029				hypothetical protein
+BIMNHAED_00839	CDS	2106		1.18.-.-	COG0247	EtfAB:quinone oxidoreductase
+BIMNHAED_00840	CDS	963	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+BIMNHAED_00841	CDS	768	fixA_1			Protein FixA
+BIMNHAED_00842	CDS	591	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+BIMNHAED_00843	CDS	774				hypothetical protein
+BIMNHAED_00844	CDS	1185	caiA_2	1.3.8.13	COG1960	Crotonobetainyl-CoA reductase
+BIMNHAED_00845	CDS	2082		1.16.1.-	COG0446	Metal reductase
+BIMNHAED_00846	CDS	654				hypothetical protein
+BIMNHAED_00847	CDS	1215	acrC	1.3.1.95		Acryloyl-CoA reductase (NADH)
+BIMNHAED_00848	CDS	1698	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+BIMNHAED_00849	CDS	579				hypothetical protein
+BIMNHAED_00850	CDS	1521	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+BIMNHAED_00851	CDS	1578	serA_1	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+BIMNHAED_00852	CDS	1083	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+BIMNHAED_00853	CDS	255				hypothetical protein
+BIMNHAED_00854	CDS	777		3.5.3.18	COG1834	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+BIMNHAED_00855	CDS	306				hypothetical protein
+BIMNHAED_00856	CDS	3774	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+BIMNHAED_00857	CDS	2703	addB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+BIMNHAED_00858	CDS	318				hypothetical protein
+BIMNHAED_00859	CDS	537				hypothetical protein
+BIMNHAED_00860	CDS	282	higA1		COG1396	Antitoxin HigA1
+BIMNHAED_00861	CDS	348				hypothetical protein
+BIMNHAED_00862	CDS	294				hypothetical protein
+BIMNHAED_00863	CDS	324	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+BIMNHAED_00864	CDS	960				hypothetical protein
+BIMNHAED_00865	CDS	885	cmpR_1			HTH-type transcriptional activator CmpR
+BIMNHAED_00866	CDS	687	tal	2.2.1.2	COG0176	putative transaldolase
+BIMNHAED_00867	CDS	1995	rho	3.6.4.-		Transcription termination factor Rho
+BIMNHAED_00868	CDS	1251				hypothetical protein
+BIMNHAED_00869	CDS	2022				hypothetical protein
+BIMNHAED_00870	CDS	825	rpsB		COG0052	30S ribosomal protein S2
+BIMNHAED_00871	CDS	861	tsf		COG0264	Elongation factor Ts
+BIMNHAED_00872	CDS	1281	murAA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+BIMNHAED_00873	CDS	1512				hypothetical protein
+BIMNHAED_00874	CDS	231	nfuA			Fe/S biogenesis protein NfuA
+BIMNHAED_00875	CDS	291				hypothetical protein
+BIMNHAED_00876	CDS	231				hypothetical protein
+BIMNHAED_00877	CDS	852	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+BIMNHAED_00878	CDS	381	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+BIMNHAED_00879	CDS	483				hypothetical protein
+BIMNHAED_00880	CDS	1344	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+BIMNHAED_00881	CDS	675				hypothetical protein
+BIMNHAED_00882	CDS	2628	polA	2.7.7.7	COG0258	DNA polymerase I
+BIMNHAED_00883	CDS	966				hypothetical protein
+BIMNHAED_00884	CDS	1224	arcA_5	3.5.3.6	COG2235	Arginine deiminase
+BIMNHAED_00885	CDS	1599				hypothetical protein
+BIMNHAED_00886	CDS	321	rplU		COG0261	50S ribosomal protein L21
+BIMNHAED_00887	CDS	261	rpmA		COG0211	50S ribosomal protein L27
+BIMNHAED_00888	CDS	1398	obg	3.6.5.-		GTPase Obg
+BIMNHAED_00889	CDS	1134	proB	2.7.2.11		Glutamate 5-kinase
+BIMNHAED_00890	CDS	1290	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+BIMNHAED_00891	CDS	669	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+BIMNHAED_00892	CDS	642				hypothetical protein
+BIMNHAED_00893	CDS	456	rsfS			Ribosomal silencing factor RsfS
+BIMNHAED_00894	CDS	2610				hypothetical protein
+BIMNHAED_00895	CDS	1491	cydA	7.1.1.7	COG1271	Cytochrome bd-I ubiquinol oxidase subunit 1
+BIMNHAED_00896	CDS	1035	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+BIMNHAED_00897	CDS	1113				hypothetical protein
+BIMNHAED_00898	CDS	2832	secA1		COG0653	Protein translocase subunit SecA 1
+BIMNHAED_00899	CDS	1101	prfB			Peptide chain release factor 2
+BIMNHAED_00900	CDS	834	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+BIMNHAED_00901	CDS	978	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+BIMNHAED_00902	CDS	891	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_00903	CDS	915	ftsX		COG2177	Cell division protein FtsX
+BIMNHAED_00904	CDS	1314				hypothetical protein
+BIMNHAED_00905	CDS	2001	rnr	3.1.13.1	COG0557	Ribonuclease R
+BIMNHAED_00906	CDS	360				hypothetical protein
+BIMNHAED_00907	CDS	1380				hypothetical protein
+BIMNHAED_00908	CDS	1497	ftsY			Signal recognition particle receptor FtsY
+BIMNHAED_00909	CDS	1416	ffh		COG0541	Signal recognition particle protein
+BIMNHAED_00910	CDS	1671				hypothetical protein
+BIMNHAED_00911	CDS	999	dppB		COG0601	Dipeptide transport system permease protein DppB
+BIMNHAED_00912	CDS	876	oppC		COG1173	Oligopeptide transport system permease protein OppC
+BIMNHAED_00913	CDS	993	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_00914	CDS	624	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+BIMNHAED_00915	CDS	246	rpsP		COG0228	30S ribosomal protein S16
+BIMNHAED_00916	CDS	255				hypothetical protein
+BIMNHAED_00917	CDS	525	rimM			Ribosome maturation factor RimM
+BIMNHAED_00918	CDS	996	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+BIMNHAED_00919	CDS	615	lepB	3.4.21.89	COG0681	Signal peptidase I
+BIMNHAED_00920	CDS	1140				hypothetical protein
+BIMNHAED_00921	CDS	2088	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+BIMNHAED_00922	CDS	912	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+BIMNHAED_00923	CDS	348				hypothetical protein
+BIMNHAED_00924	CDS	261				hypothetical protein
+BIMNHAED_00925	CDS	252				hypothetical protein
+BIMNHAED_00926	CDS	186				hypothetical protein
+BIMNHAED_00927	CDS	198				hypothetical protein
+BIMNHAED_00928	CDS	381				hypothetical protein
+BIMNHAED_00929	CDS	210				hypothetical protein
+BIMNHAED_00930	CDS	168				hypothetical protein
+BIMNHAED_00931	CDS	165				hypothetical protein
+BIMNHAED_00932	CDS	183				hypothetical protein
+BIMNHAED_00933	CDS	1875				hypothetical protein
+BIMNHAED_00934	CDS	261				hypothetical protein
+BIMNHAED_00935	CDS	618				hypothetical protein
+BIMNHAED_00936	CDS	810				hypothetical protein
+BIMNHAED_00937	CDS	1209				IS110 family transposase ISBth13
+BIMNHAED_00938	CDS	321				hypothetical protein
+BIMNHAED_00939	CDS	1020				hypothetical protein
+BIMNHAED_00940	CDS	2718	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+BIMNHAED_00941	CDS	1128	drdI	5.3.1.-		5-deoxyribose 1-phosphate isomerase
+BIMNHAED_00942	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+BIMNHAED_00943	CDS	783				hypothetical protein
+BIMNHAED_00944	CDS	12201				hypothetical protein
+BIMNHAED_00945	CDS	789				hypothetical protein
+BIMNHAED_00946	CDS	330				hypothetical protein
+BIMNHAED_00947	CDS	1812			COG1132	putative ABC transporter ATP-binding protein
+BIMNHAED_00948	CDS	1908			COG1132	putative ABC transporter ATP-binding protein
+BIMNHAED_00949	CDS	858				hypothetical protein
+BIMNHAED_00950	CDS	1431				hypothetical protein
+BIMNHAED_00951	CDS	894	nth_1	4.2.99.18		Endonuclease III
+BIMNHAED_00952	CDS	642	mntP		COG1971	putative manganese efflux pump MntP
+BIMNHAED_00953	CDS	933				hypothetical protein
+BIMNHAED_00954	CDS	849	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+BIMNHAED_00955	CDS	1278				hypothetical protein
+BIMNHAED_00956	CDS	1674	hydB	1.12.2.1	COG0374	Periplasmic [NiFe] hydrogenase large subunit
+BIMNHAED_00957	CDS	687				hypothetical protein
+BIMNHAED_00958	CDS	2652				hypothetical protein
+BIMNHAED_00959	CDS	2193				hypothetical protein
+BIMNHAED_00960	CDS	438				hypothetical protein
+BIMNHAED_00961	CDS	501				hypothetical protein
+BIMNHAED_00962	CDS	663	nth_2	4.2.99.18	COG0177	Endonuclease III
+BIMNHAED_00963	CDS	3876	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+BIMNHAED_00964	CDS	1020	yicL		COG0697	putative inner membrane transporter YicL
+BIMNHAED_00965	CDS	447				hypothetical protein
+BIMNHAED_00966	CDS	2298				hypothetical protein
+BIMNHAED_00967	CDS	1623	gltX1	6.1.1.17	COG0008	Glutamate--tRNA ligase 1
+BIMNHAED_00968	CDS	1284				hypothetical protein
+BIMNHAED_00969	CDS	417				hypothetical protein
+BIMNHAED_00970	CDS	1269	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+BIMNHAED_00971	CDS	1602				hypothetical protein
+BIMNHAED_00972	CDS	1392				hypothetical protein
+BIMNHAED_00973	CDS	939				hypothetical protein
+BIMNHAED_00974	CDS	486	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+BIMNHAED_00975	CDS	2367	priA	3.6.4.-	COG1198	Primosomal protein N'
+BIMNHAED_00976	CDS	1251	rpoD			RNA polymerase sigma factor RpoD
+BIMNHAED_00977	CDS	2172	rlmL		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+BIMNHAED_00978	tRNA	75				tRNA-Asn(gtt)
+BIMNHAED_00979	tRNA	86				tRNA-Leu(tag)
+BIMNHAED_00980	CDS	1272	sstT		COG3633	Serine/threonine transporter SstT
+BIMNHAED_00981	CDS	1656				hypothetical protein
+BIMNHAED_00982	CDS	1881				hypothetical protein
+BIMNHAED_00983	CDS	1629	nfdA_2	3.5.1.91		N-substituted formamide deformylase
+BIMNHAED_00984	CDS	1686				hypothetical protein
+BIMNHAED_00985	CDS	561				hypothetical protein
+BIMNHAED_00986	CDS	537				hypothetical protein
+BIMNHAED_00987	CDS	1374	tig_2	5.2.1.8		Trigger factor
+BIMNHAED_00988	CDS	714	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+BIMNHAED_00989	CDS	1398	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+BIMNHAED_00990	CDS	2676	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+BIMNHAED_00991	CDS	576				hypothetical protein
+BIMNHAED_00992	CDS	504				hypothetical protein
+BIMNHAED_00993	CDS	1920	thrZ	6.1.1.3	COG0441	Threonine--tRNA ligase 2
+BIMNHAED_00994	CDS	327				hypothetical protein
+BIMNHAED_00995	CDS	1485	panF		COG4145	Sodium/pantothenate symporter
+BIMNHAED_00996	CDS	1011	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+BIMNHAED_00997	CDS	309				Thioredoxin C-1
+BIMNHAED_00998	CDS	1389	kefB			Glutathione-regulated potassium-efflux system protein KefB
+BIMNHAED_00999	CDS	1536				hypothetical protein
+BIMNHAED_01000	CDS	2781	dmsA_4	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_01001	CDS	579	dmsB_3		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01002	CDS	852	torD_4			Chaperone protein TorD
+BIMNHAED_01003	CDS	297				hypothetical protein
+BIMNHAED_01004	CDS	396				hypothetical protein
+BIMNHAED_01005	CDS	1074	prfA		COG0216	Peptide chain release factor 1
+BIMNHAED_01006	CDS	1110	prmC	2.1.1.297		Release factor glutamine methyltransferase
+BIMNHAED_01007	CDS	831	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+BIMNHAED_01008	CDS	561	yrdA		COG0663	Protein YrdA
+BIMNHAED_01009	CDS	1026				hypothetical protein
+BIMNHAED_01010	CDS	1671	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+BIMNHAED_01011	CDS	2097	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+BIMNHAED_01012	CDS	483	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+BIMNHAED_01013	CDS	996	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+BIMNHAED_01014	CDS	696	xerC_2			Tyrosine recombinase XerC
+BIMNHAED_01015	CDS	252				hypothetical protein
+BIMNHAED_01016	CDS	513				hypothetical protein
+BIMNHAED_01017	CDS	2223				hypothetical protein
+BIMNHAED_01018	CDS	741	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+BIMNHAED_01019	CDS	309				hypothetical protein
+BIMNHAED_01020	CDS	915	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+BIMNHAED_01021	CDS	624				hypothetical protein
+BIMNHAED_01022	CDS	1989	htpG		COG0326	Chaperone protein HtpG
+BIMNHAED_01023	CDS	1131				hypothetical protein
+BIMNHAED_01024	CDS	900				hypothetical protein
+BIMNHAED_01025	CDS	1977	mdtD_1			Putative multidrug resistance protein MdtD
+BIMNHAED_01026	CDS	1677				hypothetical protein
+BIMNHAED_01027	CDS	2427	ynfE_2	1.8.99.-	COG0243	Putative dimethyl sulfoxide reductase chain YnfE
+BIMNHAED_01028	CDS	633	dmsB_4		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01029	CDS	573	dmsB_5		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01030	CDS	855	dmsC		COG3302	Anaerobic dimethyl sulfoxide reductase chain C
+BIMNHAED_01031	CDS	669	dmsD_2		COG3381	Tat proofreading chaperone DmsD
+BIMNHAED_01032	CDS	990				hypothetical protein
+BIMNHAED_01033	CDS	1200				hypothetical protein
+BIMNHAED_01034	CDS	1020				hypothetical protein
+BIMNHAED_01035	CDS	1344				hypothetical protein
+BIMNHAED_01036	CDS	414				hypothetical protein
+BIMNHAED_01037	CDS	1215				hypothetical protein
+BIMNHAED_01038	CDS	777	dnaJ_3			Chaperone protein DnaJ
+BIMNHAED_01039	CDS	822				hypothetical protein
+BIMNHAED_01040	CDS	1389				hypothetical protein
+BIMNHAED_01041	CDS	1323	proP_2			Proline/betaine transporter
+BIMNHAED_01042	CDS	831	crnA	3.5.2.10		Creatinine amidohydrolase
+BIMNHAED_01043	CDS	1170				hypothetical protein
+BIMNHAED_01044	CDS	585				hypothetical protein
+BIMNHAED_01045	CDS	885	map_2	3.4.11.18	COG0024	Methionine aminopeptidase
+BIMNHAED_01046	CDS	723				hypothetical protein
+BIMNHAED_01047	CDS	1590				hypothetical protein
+BIMNHAED_01048	CDS	957				hypothetical protein
+BIMNHAED_01049	CDS	318				hypothetical protein
+BIMNHAED_01050	CDS	597	recR		COG0353	Recombination protein RecR
+BIMNHAED_01051	CDS	309			COG0718	Nucleoid-associated protein
+BIMNHAED_01052	CDS	2433				hypothetical protein
+BIMNHAED_01053	CDS	855				hypothetical protein
+BIMNHAED_01054	CDS	1659				hypothetical protein
+BIMNHAED_01055	CDS	1038				hypothetical protein
+BIMNHAED_01056	CDS	1782	aspS	6.1.1.12		Aspartate--tRNA ligase
+BIMNHAED_01057	CDS	2661	acn	4.2.1.3	COG1048	Aconitate hydratase A
+BIMNHAED_01058	CDS	603				hypothetical protein
+BIMNHAED_01059	rRNA	93				5S ribosomal RNA (partial)
+BIMNHAED_01060	CDS	447				hypothetical protein
+BIMNHAED_01061	CDS	441				hypothetical protein
+BIMNHAED_01062	CDS	2142				hypothetical protein
+BIMNHAED_01063	CDS	516				hypothetical protein
+BIMNHAED_01064	CDS	165				hypothetical protein
+BIMNHAED_01065	CDS	243				hypothetical protein
+BIMNHAED_01066	CDS	951				hypothetical protein
+BIMNHAED_01067	CDS	987				hypothetical protein
+BIMNHAED_01068	CDS	1332				hypothetical protein
+BIMNHAED_01069	CDS	1317				hypothetical protein
+BIMNHAED_01070	CDS	816				hypothetical protein
+BIMNHAED_01071	CDS	1332	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+BIMNHAED_01072	CDS	798				hypothetical protein
+BIMNHAED_01073	CDS	2919	uvrA_2		COG0178	UvrABC system protein A
+BIMNHAED_01074	CDS	1320				hypothetical protein
+BIMNHAED_01075	CDS	99				hypothetical protein
+BIMNHAED_01076	CDS	969	xerD_2		COG4974	Tyrosine recombinase XerD
+BIMNHAED_01077	CDS	1365	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+BIMNHAED_01078	CDS	948				hypothetical protein
+BIMNHAED_01079	CDS	1497	comM		COG0606	Competence protein ComM
+BIMNHAED_01080	CDS	501				hypothetical protein
+BIMNHAED_01081	CDS	792	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+BIMNHAED_01082	CDS	348	rplS			50S ribosomal protein L19
+BIMNHAED_01083	CDS	936			COG0330	putative protein
+BIMNHAED_01084	CDS	1308	rutB_2	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+BIMNHAED_01085	CDS	1587	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+BIMNHAED_01086	CDS	684				hypothetical protein
+BIMNHAED_01087	CDS	942	cysK	2.5.1.47		Cysteine synthase
+BIMNHAED_01088	tRNA	77				tRNA-Asp(gtc)
+BIMNHAED_01089	tRNA	77				tRNA-Asp(gtc)
+BIMNHAED_01090	CDS	363			COG0537	putative HIT-like protein
+BIMNHAED_01091	CDS	651				hypothetical protein
+BIMNHAED_01092	CDS	2004				hypothetical protein
+BIMNHAED_01093	CDS	1206				hypothetical protein
+BIMNHAED_01094	CDS	1257	mrdB_2	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+BIMNHAED_01095	CDS	2175	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+BIMNHAED_01096	CDS	528				hypothetical protein
+BIMNHAED_01097	CDS	1023				hypothetical protein
+BIMNHAED_01098	CDS	1056	mreB		COG1077	Cell shape-determining protein MreB
+BIMNHAED_01099	CDS	1581	ifcA_3	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01100	CDS	1374				hypothetical protein
+BIMNHAED_01101	CDS	1290	hoxH	1.12.1.2		NAD-reducing hydrogenase HoxS subunit beta
+BIMNHAED_01102	CDS	789				hypothetical protein
+BIMNHAED_01103	CDS	903	asrB		COG0543	Anaerobic sulfite reductase subunit B
+BIMNHAED_01104	CDS	1026	asrA		COG1145	Anaerobic sulfite reductase subunit A
+BIMNHAED_01105	CDS	405	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+BIMNHAED_01106	CDS	1386				hypothetical protein
+BIMNHAED_01107	CDS	534	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+BIMNHAED_01108	CDS	1446	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+BIMNHAED_01109	tRNA	76				tRNA-Arg(ccg)
+BIMNHAED_01110	CDS	948	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+BIMNHAED_01111	CDS	405				hypothetical protein
+BIMNHAED_01112	tRNA	75				tRNA-Glu(ttc)
+BIMNHAED_01113	CDS	1002				hypothetical protein
+BIMNHAED_01114	CDS	1452	ugtP	2.4.1.315		Processive diacylglycerol beta-glucosyltransferase
+BIMNHAED_01115	CDS	1518	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+BIMNHAED_01116	CDS	408				hypothetical protein
+BIMNHAED_01117	CDS	357	rplT		COG0292	50S ribosomal protein L20
+BIMNHAED_01118	CDS	198	rpmI			50S ribosomal protein L35
+BIMNHAED_01119	CDS	573	infC		COG0290	Translation initiation factor IF-3
+BIMNHAED_01120	CDS	1287				hypothetical protein
+BIMNHAED_01121	CDS	360				hypothetical protein
+BIMNHAED_01122	CDS	2916				hypothetical protein
+BIMNHAED_01123	CDS	777	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+BIMNHAED_01124	CDS	930				hypothetical protein
+BIMNHAED_01125	CDS	1062				hypothetical protein
+BIMNHAED_01126	CDS	810				hypothetical protein
+BIMNHAED_01127	CDS	1329				hypothetical protein
+BIMNHAED_01128	CDS	738				hypothetical protein
+BIMNHAED_01129	CDS	1458	aldH1	1.2.1.-	COG1012	4,4'-diaponeurosporen-aldehyde dehydrogenase
+BIMNHAED_01130	CDS	780	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+BIMNHAED_01131	CDS	687	mupP	3.1.3.105	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+BIMNHAED_01132	CDS	459				hypothetical protein
+BIMNHAED_01133	CDS	1218	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+BIMNHAED_01134	CDS	1413	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+BIMNHAED_01135	CDS	456				hypothetical protein
+BIMNHAED_01136	CDS	255				hypothetical protein
+BIMNHAED_01137	CDS	423			COG0864	Putative nickel-responsive regulator
+BIMNHAED_01138	CDS	1026	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+BIMNHAED_01139	CDS	189				Ferredoxin-2
+BIMNHAED_01140	CDS	498				hypothetical protein
+BIMNHAED_01141	CDS	1938				hypothetical protein
+BIMNHAED_01142	CDS	1449				hypothetical protein
+BIMNHAED_01143	CDS	1905	dnaK		COG0443	Chaperone protein DnaK
+BIMNHAED_01144	CDS	684	grpE			Protein GrpE
+BIMNHAED_01145	CDS	951	dnaJ_4		COG0484	Chaperone protein DnaJ
+BIMNHAED_01146	CDS	378				hypothetical protein
+BIMNHAED_01147	CDS	2814	clpB		COG0542	Chaperone protein ClpB
+BIMNHAED_01148	CDS	597				hypothetical protein
+BIMNHAED_01149	CDS	567				hypothetical protein
+BIMNHAED_01150	CDS	1353	gltT			Proton/sodium-glutamate symport protein
+BIMNHAED_01151	CDS	1410		3.4.13.-		Putative dipeptidase
+BIMNHAED_01152	CDS	714	lytR		COG3279	Sensory transduction protein LytR
+BIMNHAED_01153	CDS	1896	pgi	5.3.1.9		Glucose-6-phosphate isomerase
+BIMNHAED_01154	CDS	2493	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+BIMNHAED_01155	CDS	249	hypC		COG0298	Hydrogenase maturation factor HypC
+BIMNHAED_01156	CDS	1092	hypD		COG0409	Hydrogenase maturation factor HypD
+BIMNHAED_01157	CDS	1254				hypothetical protein
+BIMNHAED_01158	CDS	294				hypothetical protein
+BIMNHAED_01159	CDS	444	yqeY		COG1610	putative protein YqeY
+BIMNHAED_01160	CDS	2214				hypothetical protein
+BIMNHAED_01161	CDS	1026	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_01162	CDS	99				hypothetical protein
+BIMNHAED_01163	CDS	1167	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+BIMNHAED_01164	CDS	675	graR		COG0745	Response regulator protein GraR
+BIMNHAED_01165	CDS	813				hypothetical protein
+BIMNHAED_01166	CDS	222				hypothetical protein
+BIMNHAED_01167	CDS	492				hypothetical protein
+BIMNHAED_01168	CDS	1977				hypothetical protein
+BIMNHAED_01169	CDS	852				hypothetical protein
+BIMNHAED_01170	CDS	819				hypothetical protein
+BIMNHAED_01171	CDS	663				hypothetical protein
+BIMNHAED_01172	CDS	672	trkA_1		COG0569	Trk system potassium uptake protein TrkA
+BIMNHAED_01173	CDS	2043				hypothetical protein
+BIMNHAED_01174	CDS	528	aroK_1	2.7.1.71	COG0703	Shikimate kinase 1
+BIMNHAED_01175	CDS	1518	alsT_3		COG1115	Amino-acid carrier protein AlsT
+BIMNHAED_01176	CDS	1329	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+BIMNHAED_01177	CDS	1173	napF_1			Ferredoxin-type protein NapF
+BIMNHAED_01178	CDS	849	fliY_1		COG0834	L-cystine-binding protein FliY
+BIMNHAED_01179	CDS	654	artQ		COG0765	Arginine transport system permease protein ArtQ
+BIMNHAED_01180	CDS	774	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+BIMNHAED_01181	CDS	1581				hypothetical protein
+BIMNHAED_01182	CDS	1374	pqqE	1.21.98.4		PqqA peptide cyclase
+BIMNHAED_01183	CDS	276				hypothetical protein
+BIMNHAED_01184	CDS	321				hypothetical protein
+BIMNHAED_01185	CDS	651				hypothetical protein
+BIMNHAED_01186	CDS	123				hypothetical protein
+BIMNHAED_01187	CDS	813				hypothetical protein
+BIMNHAED_01188	CDS	225				hypothetical protein
+BIMNHAED_01189	CDS	231				hypothetical protein
+BIMNHAED_01190	CDS	717	pyrH	2.7.4.22	COG0528	Uridylate kinase
+BIMNHAED_01191	CDS	564	frr		COG0233	Ribosome-recycling factor
+BIMNHAED_01192	CDS	780	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+BIMNHAED_01193	CDS	1029				hypothetical protein
+BIMNHAED_01194	CDS	1263	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+BIMNHAED_01195	CDS	3819				hypothetical protein
+BIMNHAED_01196	CDS	1113				hypothetical protein
+BIMNHAED_01197	CDS	1071	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+BIMNHAED_01198	CDS	1761	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+BIMNHAED_01199	CDS	615				hypothetical protein
+BIMNHAED_01200	CDS	513				hypothetical protein
+BIMNHAED_01201	CDS	1770				hypothetical protein
+BIMNHAED_01202	CDS	1689				hypothetical protein
+BIMNHAED_01203	CDS	753		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+BIMNHAED_01204	CDS	543				hypothetical protein
+BIMNHAED_01205	CDS	954				hypothetical protein
+BIMNHAED_01206	CDS	675				hypothetical protein
+BIMNHAED_01207	CDS	639				hypothetical protein
+BIMNHAED_01208	CDS	801				hypothetical protein
+BIMNHAED_01209	CDS	1014				hypothetical protein
+BIMNHAED_01210	CDS	1296		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+BIMNHAED_01211	CDS	297	fixX		COG2440	Ferredoxin-like protein FixX
+BIMNHAED_01212	CDS	1305				hypothetical protein
+BIMNHAED_01213	CDS	1566	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+BIMNHAED_01214	CDS	2673	malT_1		COG2909	HTH-type transcriptional regulator MalT
+BIMNHAED_01215	CDS	1212	baiF_1	2.8.3.25	COG1804	Bile acid-CoA transferase
+BIMNHAED_01216	CDS	546				hypothetical protein
+BIMNHAED_01217	CDS	444				hypothetical protein
+BIMNHAED_01218	CDS	810				hypothetical protein
+BIMNHAED_01219	CDS	471				hypothetical protein
+BIMNHAED_01220	CDS	1209	baiF_2	2.8.3.25	COG1804	Bile acid-CoA transferase
+BIMNHAED_01221	CDS	1173	caiA_3	1.3.8.13	COG1960	Crotonobetainyl-CoA reductase
+BIMNHAED_01222	CDS	759	fixA_2		COG2086	Protein FixA
+BIMNHAED_01223	CDS	828	fixB		COG2025	Protein FixB
+BIMNHAED_01224	CDS	1464				hypothetical protein
+BIMNHAED_01225	CDS	1647				hypothetical protein
+BIMNHAED_01226	CDS	708				hypothetical protein
+BIMNHAED_01227	CDS	2214	phsA_1	1.8.5.5	COG0243	Thiosulfate reductase molybdopterin-containing subunit PhsA
+BIMNHAED_01228	CDS	537	ttrB_4		COG0437	Tetrathionate reductase subunit B
+BIMNHAED_01229	CDS	867				hypothetical protein
+BIMNHAED_01230	CDS	1524				hypothetical protein
+BIMNHAED_01231	CDS	1545				hypothetical protein
+BIMNHAED_01232	CDS	2346				hypothetical protein
+BIMNHAED_01233	CDS	819		3.2.1.-		Protein-ADP-ribose hydrolase
+BIMNHAED_01234	CDS	567				hypothetical protein
+BIMNHAED_01235	CDS	1635	mdtD_2			Putative multidrug resistance protein MdtD
+BIMNHAED_01236	CDS	705	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+BIMNHAED_01237	CDS	1779	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_01238	CDS	2376	dmsA_5	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_01239	CDS	579				hypothetical protein
+BIMNHAED_01240	CDS	1236				hypothetical protein
+BIMNHAED_01241	CDS	687	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+BIMNHAED_01242	CDS	1260				hypothetical protein
+BIMNHAED_01243	CDS	420				hypothetical protein
+BIMNHAED_01244	CDS	660				hypothetical protein
+BIMNHAED_01245	CDS	657				hypothetical protein
+BIMNHAED_01246	CDS	1818				hypothetical protein
+BIMNHAED_01247	CDS	2439	ynfE_3	1.8.99.-	COG0243	Putative dimethyl sulfoxide reductase chain YnfE
+BIMNHAED_01248	CDS	618	dmsB_6		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01249	CDS	627	dmsB_7		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01250	CDS	714	dmsD_3			Tat proofreading chaperone DmsD
+BIMNHAED_01251	CDS	993				hypothetical protein
+BIMNHAED_01252	CDS	120				hypothetical protein
+BIMNHAED_01253	CDS	519				hypothetical protein
+BIMNHAED_01254	CDS	324				hypothetical protein
+BIMNHAED_01255	CDS	318				hypothetical protein
+BIMNHAED_01256	CDS	849	apbC		COG0489	Iron-sulfur cluster carrier protein
+BIMNHAED_01257	tRNA	76				tRNA-Ala(ggc)
+BIMNHAED_01258	CDS	1407	prsA	5.2.1.8		Foldase protein PrsA
+BIMNHAED_01259	CDS	1437	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+BIMNHAED_01260	CDS	957				hypothetical protein
+BIMNHAED_01261	CDS	2079	fusA_2		COG0480	Elongation factor G
+BIMNHAED_01262	CDS	3534	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+BIMNHAED_01263	CDS	4422	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+BIMNHAED_01264	CDS	612				hypothetical protein
+BIMNHAED_01265	CDS	837				hypothetical protein
+BIMNHAED_01266	CDS	618	phsB_1		COG0437	Thiosulfate reductase electron transfer subunit PhsB
+BIMNHAED_01267	CDS	870				hypothetical protein
+BIMNHAED_01268	CDS	867				hypothetical protein
+BIMNHAED_01269	CDS	684	napG_1		COG1145	Ferredoxin-type protein NapG
+BIMNHAED_01270	CDS	1011				hypothetical protein
+BIMNHAED_01271	CDS	531	hisE	3.6.1.31		Phosphoribosyl-ATP pyrophosphatase
+BIMNHAED_01272	CDS	1428	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+BIMNHAED_01273	CDS	258				hypothetical protein
+BIMNHAED_01274	CDS	252				hypothetical protein
+BIMNHAED_01275	CDS	186				hypothetical protein
+BIMNHAED_01276	CDS	438				hypothetical protein
+BIMNHAED_01277	CDS	1428				hypothetical protein
+BIMNHAED_01278	CDS	1428				hypothetical protein
+BIMNHAED_01279	CDS	1893				hypothetical protein
+BIMNHAED_01280	CDS	270				hypothetical protein
+BIMNHAED_01281	CDS	726				hypothetical protein
+BIMNHAED_01282	CDS	327	gdx			Guanidinium exporter
+BIMNHAED_01283	CDS	1329				hypothetical protein
+BIMNHAED_01284	CDS	1452				hypothetical protein
+BIMNHAED_01285	CDS	696				hypothetical protein
+BIMNHAED_01286	CDS	2874	napA_3	1.9.6.1		Periplasmic nitrate reductase
+BIMNHAED_01287	CDS	588	soeB_4		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_01288	CDS	849				hypothetical protein
+BIMNHAED_01289	CDS	675	torD_5			Chaperone protein TorD
+BIMNHAED_01290	CDS	579	napG_2		COG1145	Ferredoxin-type protein NapG
+BIMNHAED_01291	CDS	1026				hypothetical protein
+BIMNHAED_01292	CDS	642				hypothetical protein
+BIMNHAED_01293	CDS	699				hypothetical protein
+BIMNHAED_01294	CDS	1455				hypothetical protein
+BIMNHAED_01295	CDS	711				hypothetical protein
+BIMNHAED_01296	CDS	2856	napA_4	1.9.6.1		Periplasmic nitrate reductase
+BIMNHAED_01297	CDS	591	soeB_5		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_01298	CDS	861				hypothetical protein
+BIMNHAED_01299	CDS	933	torD_6			Chaperone protein TorD
+BIMNHAED_01300	CDS	1269	pyrP_2			Uracil permease
+BIMNHAED_01301	CDS	1254	pyrP_3			Uracil permease
+BIMNHAED_01302	CDS	459				hypothetical protein
+BIMNHAED_01303	CDS	408				hypothetical protein
+BIMNHAED_01304	CDS	2787	ppk	2.7.4.1		Polyphosphate kinase
+BIMNHAED_01305	CDS	1734		2.7.4.-	COG2326	Polyphosphate:AMP phosphotransferase
+BIMNHAED_01306	CDS	117				hypothetical protein
+BIMNHAED_01307	CDS	912				hypothetical protein
+BIMNHAED_01308	CDS	1482	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+BIMNHAED_01309	CDS	1074	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+BIMNHAED_01310	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+BIMNHAED_01311	CDS	993				hypothetical protein
+BIMNHAED_01312	CDS	642				hypothetical protein
+BIMNHAED_01313	CDS	1182	purH	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+BIMNHAED_01314	CDS	510				hypothetical protein
+BIMNHAED_01315	CDS	1167				hypothetical protein
+BIMNHAED_01316	CDS	1200				hypothetical protein
+BIMNHAED_01317	CDS	483	menI	3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+BIMNHAED_01318	tRNA	77				tRNA-Pro(cgg)
+BIMNHAED_01319	CDS	1215	ackA_2	2.7.2.1	COG0282	Acetate kinase
+BIMNHAED_01320	CDS	1800				hypothetical protein
+BIMNHAED_01321	CDS	1671				hypothetical protein
+BIMNHAED_01322	CDS	861				hypothetical protein
+BIMNHAED_01323	CDS	411				hypothetical protein
+BIMNHAED_01324	CDS	270	tatA			Sec-independent protein translocase protein TatA
+BIMNHAED_01325	CDS	927	xerC_3			Tyrosine recombinase XerC
+BIMNHAED_01326	CDS	561				hypothetical protein
+BIMNHAED_01327	CDS	2511				hypothetical protein
+BIMNHAED_01328	CDS	2637	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+BIMNHAED_01329	CDS	1434				hypothetical protein
+BIMNHAED_01330	CDS	891				hypothetical protein
+BIMNHAED_01331	CDS	1314			COG2256	putative AAA domain-containing protein
+BIMNHAED_01332	CDS	813	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BIMNHAED_01333	CDS	1059	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+BIMNHAED_01334	CDS	924				hypothetical protein
+BIMNHAED_01335	CDS	747				hypothetical protein
+BIMNHAED_01336	CDS	1851		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01337	CDS	570				hypothetical protein
+BIMNHAED_01338	CDS	1110				hypothetical protein
+BIMNHAED_01339	CDS	207				hypothetical protein
+BIMNHAED_01340	CDS	141				hypothetical protein
+BIMNHAED_01341	CDS	1344				hypothetical protein
+BIMNHAED_01342	CDS	207				hypothetical protein
+BIMNHAED_01343	CDS	768	ccsA			Cytochrome c biogenesis protein CcsA
+BIMNHAED_01344	CDS	894				hypothetical protein
+BIMNHAED_01345	CDS	714	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+BIMNHAED_01346	CDS	2361	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+BIMNHAED_01347	CDS	666	ccmE			Cytochrome c-type biogenesis protein CcmE
+BIMNHAED_01348	CDS	1275	nrfA_1	1.7.2.2		Cytochrome c-552
+BIMNHAED_01349	CDS	975	napH		COG0348	Ferredoxin-type protein NapH
+BIMNHAED_01350	CDS	255	napD			Chaperone NapD
+BIMNHAED_01351	CDS	342				hypothetical protein
+BIMNHAED_01352	CDS	2541	napA_5	1.9.6.1		Periplasmic nitrate reductase
+BIMNHAED_01353	CDS	627	napG_3		COG1145	Ferredoxin-type protein NapG
+BIMNHAED_01354	CDS	1392	gabR_1		COG1167	HTH-type transcriptional regulatory protein GabR
+BIMNHAED_01355	CDS	591	yqgN		COG0212	putative protein YqgN
+BIMNHAED_01356	tRNA	76				tRNA-Ala(cgc)
+BIMNHAED_01357	CDS	327				hypothetical protein
+BIMNHAED_01358	CDS	990	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+BIMNHAED_01359	CDS	681				hypothetical protein
+BIMNHAED_01360	CDS	1677	ifcA_4	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01361	CDS	1563				hypothetical protein
+BIMNHAED_01362	CDS	690				hypothetical protein
+BIMNHAED_01363	CDS	1203	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+BIMNHAED_01364	CDS	2004	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+BIMNHAED_01365	CDS	597	bar	2.3.1.183		Phosphinothricin N-acetyltransferase
+BIMNHAED_01366	CDS	1545				hypothetical protein
+BIMNHAED_01367	CDS	1149	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+BIMNHAED_01368	CDS	1014				hypothetical protein
+BIMNHAED_01369	CDS	1281				hypothetical protein
+BIMNHAED_01370	CDS	273				hypothetical protein
+BIMNHAED_01371	CDS	975	dtd3_2	3.1.1.96		D-aminoacyl-tRNA deacylase
+BIMNHAED_01372	CDS	132				hypothetical protein
+BIMNHAED_01373	CDS	1578	metG	6.1.1.10		Methionine--tRNA ligase
+BIMNHAED_01374	CDS	2601	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_01375	CDS	420	cymR			HTH-type transcriptional regulator CymR
+BIMNHAED_01376	CDS	1227	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+BIMNHAED_01377	CDS	459	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+BIMNHAED_01378	CDS	945				hypothetical protein
+BIMNHAED_01379	CDS	315				hypothetical protein
+BIMNHAED_01380	CDS	462				hypothetical protein
+BIMNHAED_01381	CDS	582				hypothetical protein
+BIMNHAED_01382	CDS	873	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+BIMNHAED_01383	CDS	4767				hypothetical protein
+BIMNHAED_01384	CDS	696				hypothetical protein
+BIMNHAED_01385	CDS	1416	tagU_3	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+BIMNHAED_01386	CDS	618				hypothetical protein
+BIMNHAED_01387	CDS	237				hypothetical protein
+BIMNHAED_01388	CDS	1275				hypothetical protein
+BIMNHAED_01389	CDS	630	soeB_6		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_01390	CDS	2538	pcrA_2	1.97.1.-	COG0243	Perchlorate reductase subunit alpha
+BIMNHAED_01391	CDS	603				hypothetical protein
+BIMNHAED_01392	CDS	402				hypothetical protein
+BIMNHAED_01393	CDS	975				hypothetical protein
+BIMNHAED_01394	CDS	981				hypothetical protein
+BIMNHAED_01395	CDS	675				hypothetical protein
+BIMNHAED_01396	CDS	1536				hypothetical protein
+BIMNHAED_01397	CDS	603				hypothetical protein
+BIMNHAED_01398	CDS	675				hypothetical protein
+BIMNHAED_01399	CDS	1890				hypothetical protein
+BIMNHAED_01400	CDS	2904				hypothetical protein
+BIMNHAED_01401	CDS	411				hypothetical protein
+BIMNHAED_01402	CDS	1302	hipA	2.7.11.1	COG3550	Serine/threonine-protein kinase toxin HipA
+BIMNHAED_01403	CDS	213				hypothetical protein
+BIMNHAED_01404	CDS	1365				hypothetical protein
+BIMNHAED_01405	CDS	1368				hypothetical protein
+BIMNHAED_01406	CDS	369				hypothetical protein
+BIMNHAED_01407	CDS	741				IS21 family transposase ISBli7
+BIMNHAED_01408	CDS	1215				hypothetical protein
+BIMNHAED_01409	CDS	1104				hypothetical protein
+BIMNHAED_01410	CDS	522				hypothetical protein
+BIMNHAED_01411	CDS	2160				hypothetical protein
+BIMNHAED_01412	CDS	1035	fokIM	2.1.1.72		Modification methylase FokI
+BIMNHAED_01413	CDS	282				hypothetical protein
+BIMNHAED_01414	CDS	573				hypothetical protein
+BIMNHAED_01415	CDS	789				hypothetical protein
+BIMNHAED_01416	CDS	963				hypothetical protein
+BIMNHAED_01417	CDS	381				hypothetical protein
+BIMNHAED_01418	CDS	291	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+BIMNHAED_01419	CDS	408				hypothetical protein
+BIMNHAED_01420	CDS	297				hypothetical protein
+BIMNHAED_01421	CDS	291				hypothetical protein
+BIMNHAED_01422	CDS	672				hypothetical protein
+BIMNHAED_01423	CDS	216				hypothetical protein
+BIMNHAED_01424	CDS	681				hypothetical protein
+BIMNHAED_01425	CDS	459				hypothetical protein
+BIMNHAED_01426	CDS	180				hypothetical protein
+BIMNHAED_01427	CDS	276				hypothetical protein
+BIMNHAED_01428	CDS	363				hypothetical protein
+BIMNHAED_01429	CDS	945			COG0701	Putative two-component membrane permease complex subunit SMU_747c
+BIMNHAED_01430	CDS	1005				hypothetical protein
+BIMNHAED_01431	CDS	1605	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+BIMNHAED_01432	CDS	876				hypothetical protein
+BIMNHAED_01433	CDS	378	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+BIMNHAED_01434	CDS	405				hypothetical protein
+BIMNHAED_01435	CDS	228				hypothetical protein
+BIMNHAED_01436	CDS	1929	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+BIMNHAED_01437	CDS	1251				hypothetical protein
+BIMNHAED_01438	CDS	918				hypothetical protein
+BIMNHAED_01439	CDS	1488				hypothetical protein
+BIMNHAED_01440	CDS	636	dmsD_4			Tat proofreading chaperone DmsD
+BIMNHAED_01441	CDS	582	dmsB_8		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01442	CDS	2697	dmsA_6	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_01443	CDS	378	rplL			50S ribosomal protein L7/L12
+BIMNHAED_01444	CDS	522	rplJ		COG0244	50S ribosomal protein L10
+BIMNHAED_01445	CDS	1419				hypothetical protein
+BIMNHAED_01446	CDS	1629				hypothetical protein
+BIMNHAED_01447	CDS	2169				hypothetical protein
+BIMNHAED_01448	CDS	198				hypothetical protein
+BIMNHAED_01449	tRNA	76				tRNA-Ala(tgc)
+BIMNHAED_01450	tRNA	77				tRNA-Ile(gat)
+BIMNHAED_01451	CDS	513			COG1259	putative protein
+BIMNHAED_01452	CDS	114				hypothetical protein
+BIMNHAED_01453	CDS	2841	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+BIMNHAED_01454	CDS	1944	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+BIMNHAED_01455	CDS	1107	recF		COG1195	DNA replication and repair protein RecF
+BIMNHAED_01456	CDS	1101	dnaN		COG0592	Beta sliding clamp
+BIMNHAED_01457	CDS	1134				hypothetical protein
+BIMNHAED_01458	CDS	1629	dnaA_2		COG0593	Chromosomal replication initiator protein DnaA
+BIMNHAED_01459	CDS	777	yidC			Membrane protein insertase YidC
+BIMNHAED_01460	CDS	588				hypothetical protein
+BIMNHAED_01461	CDS	675	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+BIMNHAED_01462	CDS	996				Iron-sulfur cluster carrier protein
+BIMNHAED_01463	CDS	1059	noc			Nucleoid occlusion protein
+BIMNHAED_01464	CDS	924	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+BIMNHAED_01465	CDS	1137	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+BIMNHAED_01466	CDS	639				hypothetical protein
+BIMNHAED_01467	CDS	2970	dinG	3.1.-.-		3'-5' exonuclease DinG
+BIMNHAED_01468	CDS	1236				hypothetical protein
+BIMNHAED_01469	CDS	3129				hypothetical protein
+BIMNHAED_01470	tRNA	76				tRNA-Arg(cct)
+BIMNHAED_01471	CDS	1200	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BIMNHAED_01472	CDS	1602	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+BIMNHAED_01473	CDS	675	tcrA		COG0745	Transcriptional regulatory protein TcrA
+BIMNHAED_01474	CDS	1179				hypothetical protein
+BIMNHAED_01475	CDS	696				hypothetical protein
+BIMNHAED_01476	CDS	2235				hypothetical protein
+BIMNHAED_01477	CDS	1386	ribZ_3			Riboflavin transporter RibZ
+BIMNHAED_01478	CDS	924	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BIMNHAED_01479	CDS	291				hypothetical protein
+BIMNHAED_01480	CDS	840				hypothetical protein
+BIMNHAED_01481	CDS	321				hypothetical protein
+BIMNHAED_01482	CDS	1200				hypothetical protein
+BIMNHAED_01483	CDS	318	adh2	1.1.1.192	COG1979	Long-chain-alcohol dehydrogenase 2
+BIMNHAED_01484	CDS	372				hypothetical protein
+BIMNHAED_01485	CDS	420	yjdF			putative protein YjdF
+BIMNHAED_01486	CDS	450				hypothetical protein
+BIMNHAED_01487	CDS	1383				hypothetical protein
+BIMNHAED_01488	CDS	501	albA	1.3.3.13		Albonoursin synthase
+BIMNHAED_01489	CDS	1356	lysA_2	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+BIMNHAED_01490	CDS	396				hypothetical protein
+BIMNHAED_01491	CDS	1284	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+BIMNHAED_01492	CDS	663		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+BIMNHAED_01493	CDS	747				hypothetical protein
+BIMNHAED_01494	CDS	312				hypothetical protein
+BIMNHAED_01495	CDS	807	speE	2.5.1.16		Polyamine aminopropyltransferase
+BIMNHAED_01496	CDS	303	malT_2			HTH-type transcriptional regulator MalT
+BIMNHAED_01497	CDS	249				hypothetical protein
+BIMNHAED_01498	CDS	159				hypothetical protein
+BIMNHAED_01499	CDS	1563				hypothetical protein
+BIMNHAED_01500	CDS	1743				hypothetical protein
+BIMNHAED_01501	CDS	1674				hypothetical protein
+BIMNHAED_01502	CDS	450				hypothetical protein
+BIMNHAED_01503	CDS	186				hypothetical protein
+BIMNHAED_01504	CDS	1284		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+BIMNHAED_01505	CDS	927	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+BIMNHAED_01506	CDS	228				hypothetical protein
+BIMNHAED_01507	CDS	1593				hypothetical protein
+BIMNHAED_01508	CDS	1653	ifcA_5	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01509	CDS	723				hypothetical protein
+BIMNHAED_01510	CDS	1506				hypothetical protein
+BIMNHAED_01511	CDS	1212	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+BIMNHAED_01512	CDS	129				hypothetical protein
+BIMNHAED_01513	CDS	309				hypothetical protein
+BIMNHAED_01514	CDS	867	zupT_1		COG0428	Zinc transporter ZupT
+BIMNHAED_01515	CDS	372				hypothetical protein
+BIMNHAED_01516	CDS	258				hypothetical protein
+BIMNHAED_01517	CDS	435	rplM		COG0102	50S ribosomal protein L13
+BIMNHAED_01518	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+BIMNHAED_01519	CDS	1494				hypothetical protein
+BIMNHAED_01520	CDS	1662				hypothetical protein
+BIMNHAED_01521	CDS	810				hypothetical protein
+BIMNHAED_01522	CDS	291				hypothetical protein
+BIMNHAED_01523	CDS	1515	rhaB	2.7.1.5		Rhamnulokinase
+BIMNHAED_01524	CDS	1323	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+BIMNHAED_01525	CDS	933	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+BIMNHAED_01526	CDS	1362				hypothetical protein
+BIMNHAED_01527	CDS	2094	glnA_2	6.3.1.2		Glutamine synthetase
+BIMNHAED_01528	CDS	2058				hypothetical protein
+BIMNHAED_01529	CDS	819	mprA		COG0745	Response regulator MprA
+BIMNHAED_01530	CDS	945	bcrA			Bacitracin transport ATP-binding protein BcrA
+BIMNHAED_01531	CDS	1140				hypothetical protein
+BIMNHAED_01532	CDS	882	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+BIMNHAED_01533	CDS	525				hypothetical protein
+BIMNHAED_01534	CDS	1896				hypothetical protein
+BIMNHAED_01535	CDS	516				hypothetical protein
+BIMNHAED_01536	CDS	837				hypothetical protein
+BIMNHAED_01537	CDS	711	torD_7			Chaperone protein TorD
+BIMNHAED_01538	CDS	1242				hypothetical protein
+BIMNHAED_01539	CDS	294	rpsF		COG0360	30S ribosomal protein S6
+BIMNHAED_01540	CDS	510	ssb		COG0629	Single-stranded DNA-binding protein
+BIMNHAED_01541	CDS	261				hypothetical protein
+BIMNHAED_01542	CDS	585				hypothetical protein
+BIMNHAED_01543	CDS	1416	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+BIMNHAED_01544	CDS	1281				hypothetical protein
+BIMNHAED_01545	CDS	2226	smc_2			Chromosome partition protein Smc
+BIMNHAED_01546	CDS	216				hypothetical protein
+BIMNHAED_01547	CDS	1326	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+BIMNHAED_01548	CDS	303				hypothetical protein
+BIMNHAED_01549	CDS	2337	feoB		COG0370	Fe(2+) transporter FeoB
+BIMNHAED_01550	CDS	240				hypothetical protein
+BIMNHAED_01551	CDS	2310				hypothetical protein
+BIMNHAED_01552	CDS	480				hypothetical protein
+BIMNHAED_01553	CDS	924				hypothetical protein
+BIMNHAED_01554	CDS	1230	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+BIMNHAED_01555	CDS	1113	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+BIMNHAED_01556	CDS	447	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+BIMNHAED_01557	CDS	1014				hypothetical protein
+BIMNHAED_01558	CDS	1380				hypothetical protein
+BIMNHAED_01559	CDS	1626				hypothetical protein
+BIMNHAED_01560	CDS	1248				hypothetical protein
+BIMNHAED_01561	CDS	1104				hypothetical protein
+BIMNHAED_01562	CDS	1305				hypothetical protein
+BIMNHAED_01563	CDS	1302				hypothetical protein
+BIMNHAED_01564	CDS	345				hypothetical protein
+BIMNHAED_01565	CDS	669				hypothetical protein
+BIMNHAED_01566	CDS	1314				hypothetical protein
+BIMNHAED_01567	CDS	1902	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BIMNHAED_01568	CDS	1245	tarK_1	2.7.8.46		Teichoic acid ribitol-phosphate primase
+BIMNHAED_01569	CDS	1023	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase 1
+BIMNHAED_01570	CDS	705	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+BIMNHAED_01571	CDS	1416				hypothetical protein
+BIMNHAED_01572	CDS	963				hypothetical protein
+BIMNHAED_01573	CDS	927				hypothetical protein
+BIMNHAED_01574	CDS	291				hypothetical protein
+BIMNHAED_01575	CDS	231				hypothetical protein
+BIMNHAED_01576	CDS	1134	tarK_2	2.7.8.46		Teichoic acid ribitol-phosphate primase
+BIMNHAED_01577	CDS	750	tagH	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+BIMNHAED_01578	CDS	810	tagG		COG1682	Teichoic acid translocation permease protein TagG
+BIMNHAED_01579	CDS	288				hypothetical protein
+BIMNHAED_01580	CDS	309				hypothetical protein
+BIMNHAED_01581	CDS	810				hypothetical protein
+BIMNHAED_01582	CDS	1146	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+BIMNHAED_01583	CDS	2292				hypothetical protein
+BIMNHAED_01584	CDS	576				hypothetical protein
+BIMNHAED_01585	CDS	2112	ligA	6.5.1.2		DNA ligase
+BIMNHAED_01586	CDS	537				hypothetical protein
+BIMNHAED_01587	CDS	996	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BIMNHAED_01588	CDS	2574	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_01589	CDS	552				hypothetical protein
+BIMNHAED_01590	CDS	1848	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BIMNHAED_01591	CDS	2451	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+BIMNHAED_01592	CDS	1062	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+BIMNHAED_01593	CDS	1206				hypothetical protein
+BIMNHAED_01594	CDS	291				hypothetical protein
+BIMNHAED_01595	CDS	447				hypothetical protein
+BIMNHAED_01596	CDS	1617	recN		COG0497	DNA repair protein RecN
+BIMNHAED_01597	CDS	1644				hypothetical protein
+BIMNHAED_01598	CDS	2154	uvrB		COG0556	UvrABC system protein B
+BIMNHAED_01599	CDS	1026				hypothetical protein
+BIMNHAED_01600	CDS	600	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+BIMNHAED_01601	CDS	1221	rpsA		COG0539	30S ribosomal protein S1
+BIMNHAED_01602	CDS	1401				hypothetical protein
+BIMNHAED_01603	CDS	1047				hypothetical protein
+BIMNHAED_01604	CDS	261				hypothetical protein
+BIMNHAED_01605	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+BIMNHAED_01606	CDS	1326	amt			Ammonia channel
+BIMNHAED_01607	CDS	666				hypothetical protein
+BIMNHAED_01608	CDS	426				hypothetical protein
+BIMNHAED_01609	CDS	282				hypothetical protein
+BIMNHAED_01610	CDS	228				hypothetical protein
+BIMNHAED_01611	CDS	1878	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+BIMNHAED_01612	CDS	261				hypothetical protein
+BIMNHAED_01613	CDS	588	nusB			Transcription antitermination protein NusB
+BIMNHAED_01614	CDS	351				hypothetical protein
+BIMNHAED_01615	CDS	1353	accC	6.3.4.14	COG0439	Biotin carboxylase
+BIMNHAED_01616	CDS	93				hypothetical protein
+BIMNHAED_01617	CDS	2034	rsmB	2.1.1.176		Ribosomal RNA small subunit methyltransferase B
+BIMNHAED_01618	CDS	939	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+BIMNHAED_01619	CDS	543	def_1	3.5.1.88		Peptide deformylase
+BIMNHAED_01620	CDS	1920	dnaG	2.7.7.-		DNA primase
+BIMNHAED_01621	CDS	1227				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+BIMNHAED_01622	CDS	1626				hypothetical protein
+BIMNHAED_01623	CDS	1149				TelA-like protein
+BIMNHAED_01624	CDS	417	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+BIMNHAED_01625	CDS	1221	mltG	4.2.2.-		Endolytic murein transglycosylase
+BIMNHAED_01626	CDS	633				hypothetical protein
+BIMNHAED_01627	CDS	945	ydiB	1.1.1.282	COG0169	Quinate/shikimate dehydrogenase
+BIMNHAED_01628	CDS	1635	groL			60 kDa chaperonin
+BIMNHAED_01629	CDS	288	groS		COG0234	10 kDa chaperonin
+BIMNHAED_01630	CDS	702	vraR			Response regulator protein VraR
+BIMNHAED_01631	CDS	1236				hypothetical protein
+BIMNHAED_01632	CDS	837	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+BIMNHAED_01633	CDS	357	hypA			Hydrogenase maturation factor HypA
+BIMNHAED_01634	CDS	780	tatC		COG0805	Sec-independent protein translocase protein TatC
+BIMNHAED_01635	CDS	678				hypothetical protein
+BIMNHAED_01636	CDS	213				hypothetical protein
+BIMNHAED_01637	CDS	1362	triA	3.5.4.45		Melamine deaminase
+BIMNHAED_01638	CDS	744	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+BIMNHAED_01639	CDS	951				hypothetical protein
+BIMNHAED_01640	CDS	792	torD_8			Chaperone protein TorD
+BIMNHAED_01641	CDS	441				hypothetical protein
+BIMNHAED_01642	CDS	501				hypothetical protein
+BIMNHAED_01643	CDS	1251	qrcD			Menaquinone reductase, integral membrane subunit
+BIMNHAED_01644	CDS	624	soeB_7		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_01645	CDS	2520	serA_2	1.97.1.9		Selenate reductase subunit alpha
+BIMNHAED_01646	CDS	132				hypothetical protein
+BIMNHAED_01647	CDS	132				hypothetical protein
+BIMNHAED_01648	CDS	888				hypothetical protein
+BIMNHAED_01649	CDS	543				hypothetical protein
+BIMNHAED_01650	CDS	1086				hypothetical protein
+BIMNHAED_01651	CDS	720	kdpE		COG0745	KDP operon transcriptional regulatory protein KdpE
+BIMNHAED_01652	CDS	2832	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+BIMNHAED_01653	CDS	612	kdpC		COG2156	Potassium-transporting ATPase KdpC subunit
+BIMNHAED_01654	CDS	2079	kdpB	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+BIMNHAED_01655	CDS	1788	kdpA		COG2060	Potassium-transporting ATPase potassium-binding subunit
+BIMNHAED_01656	CDS	366				hypothetical protein
+BIMNHAED_01657	CDS	2463	OSGEPL1	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+BIMNHAED_01658	CDS	513	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+BIMNHAED_01659	CDS	819	focA		COG2116	putative formate transporter 1
+BIMNHAED_01660	CDS	1698				hypothetical protein
+BIMNHAED_01661	CDS	1440				hypothetical protein
+BIMNHAED_01662	CDS	861	folD			Bifunctional protein FolD protein
+BIMNHAED_01663	CDS	615	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+BIMNHAED_01664	CDS	1689	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+BIMNHAED_01665	CDS	771	coaX_2	2.7.1.33	COG1521	Type III pantothenate kinase
+BIMNHAED_01666	CDS	696	regX3_3		COG0745	Sensory transduction protein regX3
+BIMNHAED_01667	CDS	645	bioY		COG1268	Biotin transporter BioY
+BIMNHAED_01668	CDS	1539	mepA_2		COG0534	Multidrug export protein MepA
+BIMNHAED_01669	CDS	846	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+BIMNHAED_01670	CDS	1314				hypothetical protein
+BIMNHAED_01671	CDS	2349	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BIMNHAED_01672	CDS	549	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+BIMNHAED_01673	CDS	747		3.6.1.9		dTTP/UTP pyrophosphatase
+BIMNHAED_01674	CDS	1125	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+BIMNHAED_01675	CDS	1413	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+BIMNHAED_01676	CDS	372				hypothetical protein
+BIMNHAED_01677	CDS	3195	btuD_8	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_01678	CDS	516	ftn	1.16.3.2	COG1528	Bacterial non-heme ferritin
+BIMNHAED_01679	tRNA	92				tRNA-Pro(cgg)
+BIMNHAED_01680	CDS	786				hypothetical protein
+BIMNHAED_01681	CDS	837	nfo_2	3.1.21.2	COG0648	putative endonuclease 4
+BIMNHAED_01682	CDS	945				hypothetical protein
+BIMNHAED_01683	CDS	1749				hypothetical protein
+BIMNHAED_01684	CDS	441				hypothetical protein
+BIMNHAED_01685	CDS	642				hypothetical protein
+BIMNHAED_01686	CDS	1035				hypothetical protein
+BIMNHAED_01687	CDS	795				hypothetical protein
+BIMNHAED_01688	CDS	1128				hypothetical protein
+BIMNHAED_01689	CDS	1455	mhpB	1.13.11.16		2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase
+BIMNHAED_01690	CDS	1182	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+BIMNHAED_01691	CDS	1413	galK	2.7.1.6		Galactokinase
+BIMNHAED_01692	CDS	2070	lacZ	3.2.1.23		Beta-galactosidase
+BIMNHAED_01693	CDS	639				hypothetical protein
+BIMNHAED_01694	CDS	1104				hypothetical protein
+BIMNHAED_01695	CDS	1620				hypothetical protein
+BIMNHAED_01696	CDS	1713	ifcA_6	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01697	CDS	555	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+BIMNHAED_01698	CDS	429				hypothetical protein
+BIMNHAED_01699	CDS	312				hypothetical protein
+BIMNHAED_01700	CDS	225				hypothetical protein
+BIMNHAED_01701	CDS	99				hypothetical protein
+BIMNHAED_01702	CDS	237				hypothetical protein
+BIMNHAED_01703	CDS	357				hypothetical protein
+BIMNHAED_01704	CDS	864	torD_9			Chaperone protein TorD
+BIMNHAED_01705	CDS	576	dmsB_9		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_01706	CDS	2895	ynfE_4	1.8.99.-	COG0243	Putative dimethyl sulfoxide reductase chain YnfE
+BIMNHAED_01707	CDS	912	hdfR_2			HTH-type transcriptional regulator HdfR
+BIMNHAED_01708	CDS	1146				hypothetical protein
+BIMNHAED_01709	CDS	1818	ade	3.5.4.2	COG1001	Adenine deaminase
+BIMNHAED_01710	CDS	447	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+BIMNHAED_01711	CDS	945	pyrG_2	6.3.4.2		CTP synthase
+BIMNHAED_01712	CDS	786	sfsA			Sugar fermentation stimulation protein A
+BIMNHAED_01713	CDS	1335				hypothetical protein
+BIMNHAED_01714	CDS	2679				hypothetical protein
+BIMNHAED_01715	CDS	1752				hypothetical protein
+BIMNHAED_01716	CDS	1422				hypothetical protein
+BIMNHAED_01717	CDS	1677	ifcA_7	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01718	CDS	1590				hypothetical protein
+BIMNHAED_01719	CDS	1101				hypothetical protein
+BIMNHAED_01720	CDS	672				hypothetical protein
+BIMNHAED_01721	CDS	1344				hypothetical protein
+BIMNHAED_01722	CDS	1467		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01723	CDS	210				hypothetical protein
+BIMNHAED_01724	CDS	1476	alsT_4		COG1115	Amino-acid carrier protein AlsT
+BIMNHAED_01725	CDS	981				hypothetical protein
+BIMNHAED_01726	CDS	276				hypothetical protein
+BIMNHAED_01727	CDS	3492				hypothetical protein
+BIMNHAED_01728	CDS	471				hypothetical protein
+BIMNHAED_01729	CDS	1785		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+BIMNHAED_01730	CDS	2190	helD	3.6.4.12	COG3973	DNA helicase IV
+BIMNHAED_01731	CDS	420	def_2	3.5.1.88		Peptide deformylase
+BIMNHAED_01732	CDS	993				hypothetical protein
+BIMNHAED_01733	CDS	810	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+BIMNHAED_01734	CDS	1263	rutC	1.-.-.-		Putative aminoacrylate peracid reductase RutC
+BIMNHAED_01735	CDS	2316	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_01736	CDS	456				hypothetical protein
+BIMNHAED_01737	CDS	471	ogt_2	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+BIMNHAED_01738	CDS	318				hypothetical protein
+BIMNHAED_01739	CDS	681	hypB			Hydrogenase maturation factor HypB
+BIMNHAED_01740	CDS	549				hypothetical protein
+BIMNHAED_01741	CDS	456				hypothetical protein
+BIMNHAED_01742	CDS	1197	APOA1BP	5.1.99.6		NAD(P)H-hydrate epimerase
+BIMNHAED_01743	CDS	1128				hypothetical protein
+BIMNHAED_01744	CDS	531				hypothetical protein
+BIMNHAED_01745	CDS	516				hypothetical protein
+BIMNHAED_01746	CDS	381	crcB			Putative fluoride ion transporter CrcB
+BIMNHAED_01747	CDS	429				hypothetical protein
+BIMNHAED_01748	CDS	756				hypothetical protein
+BIMNHAED_01749	CDS	1176	ybiR		COG0471	Inner membrane protein YbiR
+BIMNHAED_01750	CDS	1332				hypothetical protein
+BIMNHAED_01751	CDS	1542				hypothetical protein
+BIMNHAED_01752	CDS	1713				hypothetical protein
+BIMNHAED_01753	CDS	453				hypothetical protein
+BIMNHAED_01754	CDS	753	baiA	1.1.1.392		3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+BIMNHAED_01755	CDS	1485				hypothetical protein
+BIMNHAED_01756	CDS	1848	urdA_3	1.3.99.33	COG1053	Urocanate reductase
+BIMNHAED_01757	CDS	1698	cdr	1.8.1.14		Coenzyme A disulfide reductase
+BIMNHAED_01758	CDS	795	zupT_2		COG0428	Zinc transporter ZupT
+BIMNHAED_01759	CDS	222				hypothetical protein
+BIMNHAED_01760	CDS	1044				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+BIMNHAED_01761	CDS	651				hypothetical protein
+BIMNHAED_01762	CDS	1911	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+BIMNHAED_01763	CDS	1602				hypothetical protein
+BIMNHAED_01764	CDS	528	apt	2.4.2.7		Adenine phosphoribosyltransferase
+BIMNHAED_01765	CDS	321	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+BIMNHAED_01766	CDS	354				hypothetical protein
+BIMNHAED_01767	CDS	1779	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+BIMNHAED_01768	CDS	408				hypothetical protein
+BIMNHAED_01769	CDS	1320				hypothetical protein
+BIMNHAED_01770	CDS	1494				hypothetical protein
+BIMNHAED_01771	CDS	1623	ifcA_8	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01772	CDS	966	arcC1_2	2.7.2.2		Carbamate kinase 1
+BIMNHAED_01773	CDS	645				hypothetical protein
+BIMNHAED_01774	CDS	441	elaA		COG2153	Protein ElaA
+BIMNHAED_01775	CDS	216				hypothetical protein
+BIMNHAED_01776	CDS	564				hypothetical protein
+BIMNHAED_01777	CDS	2085				hypothetical protein
+BIMNHAED_01778	CDS	1584				hypothetical protein
+BIMNHAED_01779	CDS	144				hypothetical protein
+BIMNHAED_01780	CDS	1473				hypothetical protein
+BIMNHAED_01781	CDS	690				hypothetical protein
+BIMNHAED_01782	CDS	432	trkA_2		COG0569	Trk system potassium uptake protein TrkA
+BIMNHAED_01783	CDS	582				hypothetical protein
+BIMNHAED_01784	CDS	1536	trkH_2		COG0168	Trk system potassium uptake protein TrkH
+BIMNHAED_01785	CDS	867				hypothetical protein
+BIMNHAED_01786	CDS	294				hypothetical protein
+BIMNHAED_01787	CDS	183				hypothetical protein
+BIMNHAED_01788	CDS	477				hypothetical protein
+BIMNHAED_01789	CDS	729	gamA	3.5.99.6	COG0363	putative glucosamine-6-phosphate deaminase 2
+BIMNHAED_01790	CDS	1701	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+BIMNHAED_01791	CDS	801		1.1.1.393	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NADP(+))
+BIMNHAED_01792	CDS	984				hypothetical protein
+BIMNHAED_01793	CDS	450				hypothetical protein
+BIMNHAED_01794	CDS	1521				hypothetical protein
+BIMNHAED_01795	CDS	507				hypothetical protein
+BIMNHAED_01796	CDS	1203				hypothetical protein
+BIMNHAED_01797	CDS	582				hypothetical protein
+BIMNHAED_01798	CDS	288				hypothetical protein
+BIMNHAED_01799	CDS	237				hypothetical protein
+BIMNHAED_01800	CDS	216				hypothetical protein
+BIMNHAED_01801	CDS	384				hypothetical protein
+BIMNHAED_01802	CDS	825				hypothetical protein
+BIMNHAED_01803	CDS	1599				hypothetical protein
+BIMNHAED_01804	CDS	1371				hypothetical protein
+BIMNHAED_01805	CDS	834				hypothetical protein
+BIMNHAED_01806	CDS	129				hypothetical protein
+BIMNHAED_01807	CDS	183				hypothetical protein
+BIMNHAED_01808	CDS	1086				hypothetical protein
+BIMNHAED_01809	tRNA	75				tRNA-Gly(ccc)
+BIMNHAED_01810	CDS	417				hypothetical protein
+BIMNHAED_01811	CDS	915				hypothetical protein
+BIMNHAED_01812	CDS	1233	lysN_2	2.6.1.39	COG1167	2-aminoadipate transaminase
+BIMNHAED_01813	CDS	1113				hypothetical protein
+BIMNHAED_01814	CDS	516				hypothetical protein
+BIMNHAED_01815	CDS	1110				hypothetical protein
+BIMNHAED_01816	CDS	462				hypothetical protein
+BIMNHAED_01817	CDS	906				hypothetical protein
+BIMNHAED_01818	CDS	1404	puuP		COG0531	Putrescine importer PuuP
+BIMNHAED_01819	CDS	837	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+BIMNHAED_01820	CDS	909				hypothetical protein
+BIMNHAED_01821	CDS	1350				hypothetical protein
+BIMNHAED_01822	CDS	606	yfcE	3.1.4.-	COG0622	Phosphodiesterase YfcE
+BIMNHAED_01823	CDS	1041				IS200/IS605 family transposase ISHaha9
+BIMNHAED_01824	tRNA	76				tRNA-Phe(gaa)
+BIMNHAED_01825	CDS	687				hypothetical protein
+BIMNHAED_01826	CDS	1446				hypothetical protein
+BIMNHAED_01827	CDS	1293	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+BIMNHAED_01828	CDS	453				hypothetical protein
+BIMNHAED_01829	CDS	741	torD_10			Chaperone protein TorD
+BIMNHAED_01830	CDS	654	napG_4		COG1145	Ferredoxin-type protein NapG
+BIMNHAED_01831	CDS	1023				hypothetical protein
+BIMNHAED_01832	CDS	969				hypothetical protein
+BIMNHAED_01833	CDS	1536	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+BIMNHAED_01834	CDS	630				hypothetical protein
+BIMNHAED_01835	CDS	1830	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+BIMNHAED_01836	CDS	288				hypothetical protein
+BIMNHAED_01837	CDS	954				hypothetical protein
+BIMNHAED_01838	CDS	579	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+BIMNHAED_01839	CDS	1416	xanQ		COG2233	Xanthine permease XanQ
+BIMNHAED_01840	CDS	963				hypothetical protein
+BIMNHAED_01841	CDS	699				hypothetical protein
+BIMNHAED_01842	CDS	1752	cstA		COG1966	Peptide transporter CstA
+BIMNHAED_01843	CDS	603				hypothetical protein
+BIMNHAED_01844	CDS	432	uspA2		COG0589	Universal stress protein A 
+BIMNHAED_01845	CDS	1386	yhhS			putative MFS-type transporter YhhS
+BIMNHAED_01846	tRNA	74				tRNA-Gln(ttg)
+BIMNHAED_01847	tRNA	76				tRNA-Lys(ttt)
+BIMNHAED_01848	CDS	1299	gshAB		COG1181	Glutathione biosynthesis bifunctional protein GshAB
+BIMNHAED_01849	CDS	321	infA			Translation initiation factor IF-1
+BIMNHAED_01850	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+BIMNHAED_01851	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+BIMNHAED_01852	CDS	399	rpsK			30S ribosomal protein S11
+BIMNHAED_01853	CDS	597	rpsD			30S ribosomal protein S4
+BIMNHAED_01854	CDS	951	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+BIMNHAED_01855	CDS	762				hypothetical protein
+BIMNHAED_01856	CDS	225				hypothetical protein
+BIMNHAED_01857	CDS	873	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+BIMNHAED_01858	CDS	987				hypothetical protein
+BIMNHAED_01859	CDS	1926		4.2.1.53	COG4716	Oleate hydratase
+BIMNHAED_01860	CDS	1293	eno	4.2.1.11		Enolase
+BIMNHAED_01861	CDS	231				hypothetical protein
+BIMNHAED_01862	CDS	936	hcaR			Hca operon transcriptional activator HcaR
+BIMNHAED_01863	CDS	528				hypothetical protein
+BIMNHAED_01864	CDS	1137				hypothetical protein
+BIMNHAED_01865	CDS	1797		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+BIMNHAED_01866	CDS	1254	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+BIMNHAED_01867	CDS	534	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+BIMNHAED_01868	CDS	1479		5.1.1.1		Alanine racemase
+BIMNHAED_01869	CDS	738				hypothetical protein
+BIMNHAED_01870	CDS	924	corA		COG0598	Cobalt/magnesium transport protein CorA
+BIMNHAED_01871	CDS	1314	fpgS	6.3.2.17		Folylpolyglutamate synthase
+BIMNHAED_01872	CDS	1602	nhaA			Na(+)/H(+) antiporter NhaA
+BIMNHAED_01873	CDS	585	hpf			Ribosome hibernation promotion factor
+BIMNHAED_01874	CDS	219	acpP			Acyl carrier protein
+BIMNHAED_01875	CDS	1575				hypothetical protein
+BIMNHAED_01876	CDS	1338				hypothetical protein
+BIMNHAED_01877	CDS	888	cmpR_2		COG0583	HTH-type transcriptional activator CmpR
+BIMNHAED_01878	CDS	984				hypothetical protein
+BIMNHAED_01879	CDS	696				hypothetical protein
+BIMNHAED_01880	CDS	504				hypothetical protein
+BIMNHAED_01881	CDS	225				hypothetical protein
+BIMNHAED_01882	CDS	690	degU		COG2197	Transcriptional regulatory protein DegU
+BIMNHAED_01883	CDS	1215				hypothetical protein
+BIMNHAED_01884	CDS	1056	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+BIMNHAED_01885	CDS	1188				hypothetical protein
+BIMNHAED_01886	CDS	204				hypothetical protein
+BIMNHAED_01887	CDS	1359	proP_3			Proline/betaine transporter
+BIMNHAED_01888	CDS	1389				hypothetical protein
+BIMNHAED_01889	CDS	1194	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+BIMNHAED_01890	CDS	183				hypothetical protein
+BIMNHAED_01891	CDS	1797				hypothetical protein
+BIMNHAED_01892	CDS	600				hypothetical protein
+BIMNHAED_01893	CDS	1053				hypothetical protein
+BIMNHAED_01894	CDS	2160	ydhV	1.-.-.-	COG2414	putative oxidoreductase YdhV
+BIMNHAED_01895	CDS	744	ndhI_4	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BIMNHAED_01896	CDS	2205	phsA_2	1.8.5.5	COG0243	Thiosulfate reductase molybdopterin-containing subunit PhsA
+BIMNHAED_01897	CDS	543	phsB_2		COG0437	Thiosulfate reductase electron transfer subunit PhsB
+BIMNHAED_01898	CDS	900				hypothetical protein
+BIMNHAED_01899	CDS	894				hypothetical protein
+BIMNHAED_01900	CDS	675				hypothetical protein
+BIMNHAED_01901	CDS	369				hypothetical protein
+BIMNHAED_01902	CDS	549	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+BIMNHAED_01903	CDS	903	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+BIMNHAED_01904	CDS	1677	gabR_2		COG1167	HTH-type transcriptional regulatory protein GabR
+BIMNHAED_01905	CDS	780	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+BIMNHAED_01906	CDS	300				hypothetical protein
+BIMNHAED_01907	CDS	885	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+BIMNHAED_01908	CDS	1251	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+BIMNHAED_01909	CDS	927	gltC_1			HTH-type transcriptional regulator GltC
+BIMNHAED_01910	CDS	933	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+BIMNHAED_01911	CDS	1656	rcsC_8	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_01912	CDS	981				hypothetical protein
+BIMNHAED_01913	CDS	1110	zitB			Zinc transporter ZitB
+BIMNHAED_01914	CDS	615				hypothetical protein
+BIMNHAED_01915	CDS	948				hypothetical protein
+BIMNHAED_01916	CDS	1236	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+BIMNHAED_01917	CDS	3159	fdnG	1.17.5.3	COG0243	Formate dehydrogenase, nitrate-inducible, major subunit
+BIMNHAED_01918	CDS	1395				hypothetical protein
+BIMNHAED_01919	CDS	132				hypothetical protein
+BIMNHAED_01920	CDS	768	pezT	2.7.1.176		Toxin PezT
+BIMNHAED_01921	CDS	555				hypothetical protein
+BIMNHAED_01922	CDS	1680	ettA		COG0488	Energy-dependent translational throttle protein EttA
+BIMNHAED_01923	CDS	468	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+BIMNHAED_01924	CDS	690				hypothetical protein
+BIMNHAED_01925	CDS	1020				hypothetical protein
+BIMNHAED_01926	CDS	837				hypothetical protein
+BIMNHAED_01927	CDS	912				hypothetical protein
+BIMNHAED_01928	CDS	915				hypothetical protein
+BIMNHAED_01929	CDS	720	natR		COG3279	Transcriptional regulatory protein NatR
+BIMNHAED_01930	CDS	387				hypothetical protein
+BIMNHAED_01931	CDS	1041				hypothetical protein
+BIMNHAED_01932	CDS	1875				hypothetical protein
+BIMNHAED_01933	CDS	600		3.1.3.3	COG0560	Phosphoserine phosphatase
+BIMNHAED_01934	CDS	687				hypothetical protein
+BIMNHAED_01935	CDS	909	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+BIMNHAED_01936	CDS	789				hypothetical protein
+BIMNHAED_01937	CDS	855				hypothetical protein
+BIMNHAED_01938	CDS	1158				hypothetical protein
+BIMNHAED_01939	CDS	1155	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+BIMNHAED_01940	CDS	966		1.6.5.11	COG2070	NADH:quinone reductase
+BIMNHAED_01941	CDS	963	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+BIMNHAED_01942	CDS	759	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BIMNHAED_01943	CDS	1287	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2
+BIMNHAED_01944	CDS	462	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+BIMNHAED_01945	CDS	2613	accD	2.1.3.15		Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic
+BIMNHAED_01946	CDS	990	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+BIMNHAED_01947	CDS	2196	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+BIMNHAED_01948	CDS	720	walR_2		COG0745	Transcriptional regulatory protein WalR
+BIMNHAED_01949	CDS	1041				hypothetical protein
+BIMNHAED_01950	CDS	726		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+BIMNHAED_01951	CDS	834				hypothetical protein
+BIMNHAED_01952	CDS	720				hypothetical protein
+BIMNHAED_01953	CDS	420				hypothetical protein
+BIMNHAED_01954	CDS	1320	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+BIMNHAED_01955	CDS	888	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+BIMNHAED_01956	CDS	1083				hypothetical protein
+BIMNHAED_01957	CDS	822				hypothetical protein
+BIMNHAED_01958	CDS	954	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+BIMNHAED_01959	CDS	978				hypothetical protein
+BIMNHAED_01960	CDS	462				hypothetical protein
+BIMNHAED_01961	CDS	933				hypothetical protein
+BIMNHAED_01962	CDS	1158				hypothetical protein
+BIMNHAED_01963	CDS	1518	pcrA_3	1.97.1.-	COG0243	Perchlorate reductase subunit alpha
+BIMNHAED_01964	CDS	675	napA_6	1.9.6.1		Periplasmic nitrate reductase
+BIMNHAED_01965	CDS	618	soeB_8		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_01966	CDS	219				hypothetical protein
+BIMNHAED_01967	CDS	360				hypothetical protein
+BIMNHAED_01968	CDS	564				hypothetical protein
+BIMNHAED_01969	CDS	282				hypothetical protein
+BIMNHAED_01970	CDS	801	aroF	2.5.1.54	COG2876	Phospho-2-dehydro-3-deoxyheptonate aldolase
+BIMNHAED_01971	CDS	1125	aguA_1	3.5.3.12	COG2957	Putative agmatine deiminase
+BIMNHAED_01972	CDS	1476	potE_1			Putrescine transporter PotE
+BIMNHAED_01973	CDS	1071	ptcA_1	2.1.3.6	COG0078	Putrescine carbamoyltransferase
+BIMNHAED_01974	CDS	786				hypothetical protein
+BIMNHAED_01975	CDS	609				hypothetical protein
+BIMNHAED_01976	CDS	840	ecfA1_2	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+BIMNHAED_01977	CDS	855	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+BIMNHAED_01978	CDS	768	ecfT_4		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+BIMNHAED_01979	CDS	1860				hypothetical protein
+BIMNHAED_01980	CDS	1017	aes	3.1.1.-		Acetyl esterase
+BIMNHAED_01981	CDS	2211	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+BIMNHAED_01982	CDS	432				hypothetical protein
+BIMNHAED_01983	CDS	438			COG3279	putative HTH-type transcriptional regulator
+BIMNHAED_01984	CDS	1572	pepD	3.4.-.-	COG4690	Dipeptidase
+BIMNHAED_01985	CDS	1371	tap			Multidrug efflux pump Tap
+BIMNHAED_01986	CDS	846				hypothetical protein
+BIMNHAED_01987	CDS	1770	ksdD	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+BIMNHAED_01988	CDS	1548				hypothetical protein
+BIMNHAED_01989	CDS	99				hypothetical protein
+BIMNHAED_01990	CDS	306				hypothetical protein
+BIMNHAED_01991	CDS	5061	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+BIMNHAED_01992	CDS	1578				hypothetical protein
+BIMNHAED_01993	CDS	1038				hypothetical protein
+BIMNHAED_01994	CDS	888	gltC_2			HTH-type transcriptional regulator GltC
+BIMNHAED_01995	CDS	1443				hypothetical protein
+BIMNHAED_01996	CDS	1683		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01997	CDS	1614				hypothetical protein
+BIMNHAED_01998	CDS	1641	ifcA_9	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_01999	CDS	1092				hypothetical protein
+BIMNHAED_02000	CDS	471				hypothetical protein
+BIMNHAED_02001	CDS	1383				hypothetical protein
+BIMNHAED_02002	CDS	702				hypothetical protein
+BIMNHAED_02003	CDS	606				hypothetical protein
+BIMNHAED_02004	CDS	1725				hypothetical protein
+BIMNHAED_02005	CDS	1500				hypothetical protein
+BIMNHAED_02006	CDS	873	degV		COG1307	Protein DegV
+BIMNHAED_02007	CDS	564	efp		COG0231	Elongation factor P
+BIMNHAED_02008	CDS	1521				hypothetical protein
+BIMNHAED_02009	CDS	2487	ynfF_3	1.8.99.-	COG1104	putative dimethyl sulfoxide reductase chain YnfF
+BIMNHAED_02010	CDS	627	dmsB_10		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_02011	CDS	594	dmsD_5		COG3381	Tat proofreading chaperone DmsD
+BIMNHAED_02012	CDS	744				hypothetical protein
+BIMNHAED_02013	CDS	951				hypothetical protein
+BIMNHAED_02014	CDS	1146		3.4.11.-	COG0006	Aminopeptidase
+BIMNHAED_02015	CDS	450	yqhS	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+BIMNHAED_02016	CDS	1116	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+BIMNHAED_02017	CDS	537	aroK_2	2.7.1.71	COG0703	Shikimate kinase
+BIMNHAED_02018	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+BIMNHAED_02019	CDS	1440	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+BIMNHAED_02020	CDS	291	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+BIMNHAED_02021	CDS	1032	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+BIMNHAED_02022	CDS	660				hypothetical protein
+BIMNHAED_02023	CDS	894				hypothetical protein
+BIMNHAED_02024	CDS	1800				hypothetical protein
+BIMNHAED_02025	CDS	666	cas5d	3.1.-.-		CRISPR pre-crRNA endoribonuclease Cas5d
+BIMNHAED_02026	CDS	1980				hypothetical protein
+BIMNHAED_02027	CDS	111				hypothetical protein
+BIMNHAED_02028	CDS	828				hypothetical protein
+BIMNHAED_02029	CDS	1365				hypothetical protein
+BIMNHAED_02030	CDS	969	glsA1	3.5.1.2	COG2066	Glutaminase 1
+BIMNHAED_02031	CDS	753	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+BIMNHAED_02032	CDS	927	ctkA	2.7.11.1		Serine/threonine-protein kinase CtkA
+BIMNHAED_02033	CDS	861				DegV domain-containing protein
+BIMNHAED_02034	CDS	561	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+BIMNHAED_02035	CDS	597	mta		COG0789	HTH-type transcriptional activator mta
+BIMNHAED_02036	CDS	414				hypothetical protein
+BIMNHAED_02037	CDS	1161				hypothetical protein
+BIMNHAED_02038	CDS	618	soeB_9		COG0437	Sulfite dehydrogenase subunit B
+BIMNHAED_02039	CDS	2400	dmsA_7	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_02040	CDS	597				hypothetical protein
+BIMNHAED_02041	CDS	747				hypothetical protein
+BIMNHAED_02042	CDS	366	mgsR		COG1393	Regulatory protein MgsR
+BIMNHAED_02043	CDS	492				hypothetical protein
+BIMNHAED_02044	CDS	1518				hypothetical protein
+BIMNHAED_02045	CDS	1467				hypothetical protein
+BIMNHAED_02046	CDS	882				hypothetical protein
+BIMNHAED_02047	CDS	639				hypothetical protein
+BIMNHAED_02048	CDS	1668		1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_02049	CDS	1545				hypothetical protein
+BIMNHAED_02050	CDS	513				hypothetical protein
+BIMNHAED_02051	CDS	381				hypothetical protein
+BIMNHAED_02052	CDS	585	urdA_4	1.3.99.33	COG0431	Urocanate reductase
+BIMNHAED_02053	CDS	687				hypothetical protein
+BIMNHAED_02054	CDS	591				hypothetical protein
+BIMNHAED_02055	CDS	834				hypothetical protein
+BIMNHAED_02056	CDS	1680	ifcA_10	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_02057	CDS	1407				hypothetical protein
+BIMNHAED_02058	CDS	459				hypothetical protein
+BIMNHAED_02059	CDS	1041	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+BIMNHAED_02060	CDS	165				Rubredoxin
+BIMNHAED_02061	CDS	1029				hypothetical protein
+BIMNHAED_02062	CDS	1518	plaP		COG0531	Low-affinity putrescine importer PlaP
+BIMNHAED_02063	CDS	2289				hypothetical protein
+BIMNHAED_02064	CDS	1347	pepC	3.4.22.40	COG3579	Aminopeptidase C
+BIMNHAED_02065	CDS	1359				hypothetical protein
+BIMNHAED_02066	CDS	198	norV			Anaerobic nitric oxide reductase flavorubredoxin
+BIMNHAED_02067	CDS	1323				L-lactate transporter
+BIMNHAED_02068	CDS	561				hypothetical protein
+BIMNHAED_02069	CDS	759				hypothetical protein
+BIMNHAED_02070	CDS	1416				hypothetical protein
+BIMNHAED_02071	CDS	924	cynR			HTH-type transcriptional regulator CynR
+BIMNHAED_02072	CDS	1932	urdA_5	1.3.99.33	COG0431	Urocanate reductase
+BIMNHAED_02073	CDS	1674	ifcA_11	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_02074	CDS	684				hypothetical protein
+BIMNHAED_02075	CDS	864				hypothetical protein
+BIMNHAED_02076	CDS	981			COG0609	putative ABC transporter permease protein
+BIMNHAED_02077	CDS	786	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+BIMNHAED_02078	CDS	1170				hypothetical protein
+BIMNHAED_02079	CDS	1260	nrfA_2	1.7.2.2		Cytochrome c-552
+BIMNHAED_02080	CDS	744	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+BIMNHAED_02081	CDS	1521	rcsC_9	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_02082	CDS	555				hypothetical protein
+BIMNHAED_02083	CDS	402				hypothetical protein
+BIMNHAED_02084	CDS	540				hypothetical protein
+BIMNHAED_02085	CDS	924	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+BIMNHAED_02086	CDS	1062				hypothetical protein
+BIMNHAED_02087	CDS	870				hypothetical protein
+BIMNHAED_02088	CDS	1605				hypothetical protein
+BIMNHAED_02089	CDS	813	fetB		COG0390	putative iron export permease protein FetB
+BIMNHAED_02090	CDS	870	btuD_9	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_02091	CDS	525				hypothetical protein
+BIMNHAED_02092	CDS	1410				hypothetical protein
+BIMNHAED_02093	CDS	468				hypothetical protein
+BIMNHAED_02094	CDS	456				hypothetical protein
+BIMNHAED_02095	CDS	324				hypothetical protein
+BIMNHAED_02096	CDS	960				hypothetical protein
+BIMNHAED_02097	CDS	975				hypothetical protein
+BIMNHAED_02098	CDS	1365	moaA_2			GTP 3',8-cyclase
+BIMNHAED_02099	CDS	606				hypothetical protein
+BIMNHAED_02100	CDS	2307				hypothetical protein
+BIMNHAED_02101	CDS	1527				hypothetical protein
+BIMNHAED_02102	CDS	507				hypothetical protein
+BIMNHAED_02103	tRNA	78				tRNA-Met(cat)
+BIMNHAED_02104	CDS	1041				hypothetical protein
+BIMNHAED_02105	CDS	1425	purF_3	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+BIMNHAED_02106	CDS	2724	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+BIMNHAED_02107	CDS	879	menB	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+BIMNHAED_02108	CDS	867				hypothetical protein
+BIMNHAED_02109	CDS	1710	fccA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BIMNHAED_02110	CDS	834				hypothetical protein
+BIMNHAED_02111	CDS	564				hypothetical protein
+BIMNHAED_02112	CDS	717	ypdB		COG3279	Transcriptional regulatory protein YpdB
+BIMNHAED_02113	CDS	1074	pilT		COG2805	Twitching mobility protein
+BIMNHAED_02114	CDS	561				hypothetical protein
+BIMNHAED_02115	CDS	765				hypothetical protein
+BIMNHAED_02116	CDS	627				hypothetical protein
+BIMNHAED_02117	CDS	324				hypothetical protein
+BIMNHAED_02118	CDS	1053	epsF		COG1459	Type II secretion system protein F
+BIMNHAED_02119	CDS	993				hypothetical protein
+BIMNHAED_02120	CDS	2997	rcsC_10	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_02121	CDS	363				hypothetical protein
+BIMNHAED_02122	CDS	2109	rssB			Regulator of RpoS
+BIMNHAED_02123	CDS	1236	paaK_2	6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+BIMNHAED_02124	CDS	663	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+BIMNHAED_02125	CDS	6891				hypothetical protein
+BIMNHAED_02126	CDS	1197				hypothetical protein
+BIMNHAED_02127	CDS	612	kstD	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+BIMNHAED_02128	CDS	651				hypothetical protein
+BIMNHAED_02129	CDS	732	walR_3		COG0745	Transcriptional regulatory protein WalR
+BIMNHAED_02130	CDS	1743	rcsC_11	2.7.13.3		Sensor histidine kinase RcsC
+BIMNHAED_02131	CDS	597	dmsB_11		COG0437	Anaerobic dimethyl sulfoxide reductase chain B
+BIMNHAED_02132	CDS	2667	dmsA_8	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+BIMNHAED_02133	CDS	648				hypothetical protein
+BIMNHAED_02134	CDS	312				hypothetical protein
+BIMNHAED_02135	CDS	306				hypothetical protein
+BIMNHAED_02136	CDS	702				hypothetical protein
+BIMNHAED_02137	CDS	2238				hypothetical protein
+BIMNHAED_02138	CDS	1524				hypothetical protein
+BIMNHAED_02139	CDS	1263	napF_2			Ferredoxin-type protein NapF
+BIMNHAED_02140	CDS	693				hypothetical protein
+BIMNHAED_02141	CDS	639	ttrB_5		COG0437	Tetrathionate reductase subunit B
+BIMNHAED_02142	CDS	2517	ddhA	1.8.2.4		Dimethylsulfide dehydrogenase subunit alpha
+BIMNHAED_02143	CDS	636				hypothetical protein
+BIMNHAED_02144	CDS	462	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+BIMNHAED_02145	CDS	954				hypothetical protein
+BIMNHAED_02146	CDS	231				hypothetical protein
+BIMNHAED_02147	tRNA	87				tRNA-Leu(cag)
+BIMNHAED_02148	CDS	996				hypothetical protein
+BIMNHAED_02149	CDS	1272				hypothetical protein
+BIMNHAED_02150	CDS	288				hypothetical protein
+BIMNHAED_02151	CDS	1077				hypothetical protein
+BIMNHAED_02152	CDS	684				hypothetical protein
+BIMNHAED_02153	CDS	588				hypothetical protein
+BIMNHAED_02154	CDS	888	fliY_2		COG0834	L-cystine-binding protein FliY
+BIMNHAED_02155	CDS	825	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+BIMNHAED_02156	CDS	735	glnQ_2		COG1126	Glutamine transport ATP-binding protein GlnQ
+BIMNHAED_02157	CDS	684	ydjF		COG1842	Phage shock protein A 
+BIMNHAED_02158	CDS	918				hypothetical protein
+BIMNHAED_02159	CDS	471				hypothetical protein
+BIMNHAED_02160	CDS	1653	ubiB	2.7.-.-		protein kinase UbiB
+BIMNHAED_02161	CDS	870				hypothetical protein
+BIMNHAED_02162	CDS	414	fhaB		COG1716	FHA domain-containing protein FhaB
+BIMNHAED_02163	CDS	1338				hypothetical protein
+BIMNHAED_02164	CDS	2784	ftsI	3.4.16.4		Peptidoglycan D,D-transpeptidase FtsI
+BIMNHAED_02165	CDS	1923	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+BIMNHAED_02166	CDS	900				hypothetical protein
+BIMNHAED_02167	CDS	561	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+BIMNHAED_02168	CDS	852	walK	2.7.13.3		Sensor histidine kinase WalK
+BIMNHAED_02169	CDS	732	sphR		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein SphR
+BIMNHAED_02170	CDS	1044				hypothetical protein
+BIMNHAED_02171	CDS	1938	urdA_6	1.3.99.33	COG0431	Urocanate reductase
+BIMNHAED_02172	CDS	1386				hypothetical protein
+BIMNHAED_02173	CDS	1347				hypothetical protein
+BIMNHAED_02174	CDS	111				hypothetical protein
+BIMNHAED_02175	CDS	828	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+BIMNHAED_02176	CDS	999				hypothetical protein
+BIMNHAED_02177	CDS	993				hypothetical protein
+BIMNHAED_02178	CDS	969	pstS2		COG0226	Phosphate-binding protein PstS 2
+BIMNHAED_02179	CDS	888				hypothetical protein
+BIMNHAED_02180	CDS	1284			COG3177	putative protein
+BIMNHAED_02181	CDS	1086				hypothetical protein
+BIMNHAED_02182	CDS	2334				hypothetical protein
+BIMNHAED_02183	CDS	789				hypothetical protein
+BIMNHAED_02184	CDS	1956	btuD_10	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BIMNHAED_02185	CDS	912	ecfT_5			Energy-coupling factor transporter transmembrane protein EcfT
+BIMNHAED_02186	CDS	909				hypothetical protein
+BIMNHAED_02187	CDS	657				hypothetical protein
+BIMNHAED_02188	CDS	2595	smc_3			Chromosome partition protein Smc
+BIMNHAED_02189	CDS	2175				hypothetical protein
+BIMNHAED_02190	CDS	1305	der_2			GTPase Der
+BIMNHAED_02191	CDS	1446				hypothetical protein
+BIMNHAED_02192	CDS	1221	bioB	2.8.1.6		Biotin synthase
+BIMNHAED_02193	CDS	1875	hndD	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+BIMNHAED_02194	CDS	1839	sfrB	1.-.-.-	COG0493	NADPH-Fe(3+) oxidoreductase subunit beta
+BIMNHAED_02195	CDS	1311	vioD	4.2.1.145		Capreomycidine synthase
+BIMNHAED_02196	CDS	438				hypothetical protein
+BIMNHAED_02197	CDS	1281				hypothetical protein
+BIMNHAED_02198	CDS	1374				hypothetical protein
+BIMNHAED_02199	CDS	690				hypothetical protein
+BIMNHAED_02200	CDS	1173	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+BIMNHAED_02201	CDS	501				hypothetical protein
+BIMNHAED_02202	CDS	372				hypothetical protein
+BIMNHAED_02203	CDS	156				hypothetical protein
+BIMNHAED_02204	CDS	942				hypothetical protein
+BIMNHAED_02205	CDS	1962	mdtD_3			Putative multidrug resistance protein MdtD
+BIMNHAED_02206	CDS	1311				hypothetical protein
+BIMNHAED_02207	CDS	1359				hypothetical protein
+BIMNHAED_02208	CDS	1710				hypothetical protein
+BIMNHAED_02209	CDS	795				hypothetical protein
+BIMNHAED_02210	CDS	141				hypothetical protein
+BIMNHAED_02211	CDS	582				hypothetical protein
+BIMNHAED_02212	CDS	294				hypothetical protein
+BIMNHAED_02213	CDS	345				hypothetical protein
+BIMNHAED_02214	CDS	1575	thrC	4.2.3.1	COG0498	Threonine synthase
+BIMNHAED_02215	CDS	282				hypothetical protein
+BIMNHAED_02216	CDS	231				hypothetical protein
+BIMNHAED_02217	CDS	288				hypothetical protein
+BIMNHAED_02218	CDS	912	malT_3			HTH-type transcriptional regulator MalT
+BIMNHAED_02219	CDS	969				hypothetical protein
+BIMNHAED_02220	CDS	1071	ptcA_2	2.1.3.6	COG0078	Putrescine carbamoyltransferase
+BIMNHAED_02221	CDS	1518	potE_2			Putrescine transporter PotE
+BIMNHAED_02222	CDS	1206	aguA_2	3.5.3.12	COG2957	Putative agmatine deiminase
+BIMNHAED_02223	CDS	1671				hypothetical protein
+BIMNHAED_02224	CDS	282				hypothetical protein
+BIMNHAED_02225	CDS	393	arcA_6	3.5.3.6	COG2235	Arginine deiminase
+BIMNHAED_02226	CDS	138				hypothetical protein
+BIMNHAED_02227	CDS	1758				hypothetical protein

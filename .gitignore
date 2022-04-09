@@ -12,3 +12,6 @@ script
 *.out
 .vscode
 main.pdf
+.DS_Store
+.Rhistory
+.RData

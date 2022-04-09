@@ -1,12 +1,15 @@
-Computational Microbial Genomics - project
-================
+---
+title: "Computational Microbial Genomics - project"
+output: 
+  github_document:
+    toc: true
+---
 
-  - [Overview of the set of MAGs:
-    SGB14797](#overview-of-the-set-of-mags-sgb14797)
-  - [Taxonomic assignment](#taxonomic-assignment)
-  - [Genome annotation](#genome-annotation)
+```{r include=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
 
-``` r
+```{r packages}
 # palette
 mycolors <- c("#8ecae6", "#219ebc", "#023047", "#ffb703", "#fb8500")
 
@@ -16,16 +19,11 @@ library("rmarkdown")
 
 # Overview of the set of MAGs: SGB14797
 
-We are working with 29 MAGs found analysing stool samples and 2
-reference genomes from NCBI ( *GCA\_009755265* and *GCA\_011405655* ).
+We are working with 29 MAGs found analysing stool samples and 2 reference genomes from NCBI ( _GCA_009755265_ and	_GCA_011405655_ ).
 
-MAGs coming from stool samples are divided in samples coming from
-patients diagnosed with colorectal cancer (CRC), adenoma and control
-samples. Control samples come from cancer-free patients, but not all of
-them are healthy: some suffer from fatty liver, hypertension and/or type
-two diabetes (T2D).
+MAGs coming from stool samples are divided in samples coming from patients diagnosed with colorectal cancer (CRC), adenoma and control samples. Control samples come from cancer-free patients, but not all of them are healthy: some suffer from fatty liver, hypertension and/or type two diabetes (T2D).
 
-``` r
+```{r metadata}
 # Load the metadata tsv file
 metadata <- read.table("CMG_Rscript_data/SGB14797_metadata.tsv", sep = "\t", header = 1, na.strings = c("NA", "N"))
 
@@ -33,7 +31,8 @@ metadata <- read.table("CMG_Rscript_data/SGB14797_metadata.tsv", sep = "\t", hea
 bin_data <- read.table("CMG_Rscript_data/SGB14797_bin_data.tsv", header=1, sep = "\t")
 ```
 
-``` r
+```{r explore_metadata, fig.show="hold", out.width="50%"}
+
 # STUDY CONDITIONS
 
 conditions <- cbind(metadata[c(5,6)])
@@ -102,11 +101,12 @@ ggplot(data=metadata, aes(x=study_condition, y=number_reads, col=study_condition
   theme(plot.title = element_text(size = 17)) +
   scale_color_manual(values = mycolors[c(2,3,5)]) +
   theme(legend.position = "none")
+
 ```
 
-<img src="CMG_Rscript_files/figure-gfm/explore_metadata-1.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-2.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-3.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-4.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-5.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-6.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-7.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/explore_metadata-8.png" width="50%" />
 
-``` r
+```{r}
+
 # Completeness and redundancy
 
 cr <- cbind("Completeness", bin_data$completeness)
@@ -124,14 +124,12 @@ ggplot(data=cr, aes(x=SGB14797, y=percentage, fill=SGB14797)) +
   geom_boxplot(width=0.1, fill="white")
 ```
 
-![](CMG_Rscript_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 # Taxonomic assignment
 
-All MAGs correctly fall into the same taxonomic assignment, except for
-two low quality bins.
+All MAGs correctly fall into the same taxonomic assignment, except for two low quality bins.
 
-``` r
+```{r phylophlan}
 phyl1 <- read.table("CMG_Rscript_data/phylophlan_fa.tsv", sep = "\t")
 # dim(phyl1)
 phyl2 <- read.table("CMG_Rscript_data/phylophlan_fna.tsv", sep = "\t")
@@ -153,38 +151,22 @@ colnames(phylophlan) <- c("MAG", colnames(phylophlan[seq(2,ncol(phylophlan))]))
 # Taxonomic assignment of our SGB
 
 as.data.frame(t(phylophlan[1,seq(2,ncol(phylophlan))]))
-```
 
-    ##                                      1
-    ## Kingdom                    k__Bacteria
-    ## Phylum               p__Actinobacteria
-    ## Class                c__Coriobacteriia
-    ## Order                o__Eggerthellales
-    ## Family              f__Eggerthellaceae
-    ## Genus                 g__Adlercreutzia
-    ## Species s__Adlercreutzia_equolifaciens
-
-``` r
 # The two XieH incomplete MAGs have a different taxonomy
 
 as.data.frame(table(phylophlan$Phylum))
-```
 
-    ##                Var1 Freq
-    ## 1 p__Actinobacteria   31
-    ## 2     p__Firmicutes    2
-
-``` r
 # The MAGs with different taxonomy:
 
 phylophlan$MAG[which(phylophlan$Phylum=="p__Firmicutes")]
 ```
 
-    ## [1] "XieH_2016__YSZC12003_35541__bin.59" "XieH_2016__YSZC12003_36588__bin.73"
+
 
 # Genome annotation
 
-``` r
+```{r prokka}
+
 # Load prokka tsv files i a dataframe
 
 filenames <- list.files(path = "./CMG_Rscript_data/prokkaTsv/", pattern = ".*.tsv$")
@@ -209,23 +191,13 @@ prokka_CDS["protein_type"] <- "Hypothetical protein"
 prokka_CDS$protein_type[which(prokka_CDS$product!="hypothetical protein")] <- "Known protein"
 
 dim(prokka_data)
-```
-
-    ## [1] 68638     8
-
-``` r
 dim(prokka_CDS)
-```
-
-    ## [1] 67216     9
-
-``` r
 dim(prokka_nonCDS)
 ```
 
-    ## [1] 1422    8
 
-``` r
+```{r prokka_data, fig.show="hold", out.width="50%"}
+
 # Number of CDS
 
 ggplot(data=prokka_CDS, aes(x=MAG, fill=protein_type)) +
@@ -255,6 +227,6 @@ ggplot(data=prokka_data[which(prokka_CDS$protein_type=="Hypothetical protein"),]
   ggtitle("Gene lenght: hypothetical proteins") +
   theme(axis.text.x = element_text(angle=55, hjust=1, vjust=1, size=6, color="black"),
         plot.title = element_text(size = 17))
-```
 
-<img src="CMG_Rscript_files/figure-gfm/prokka_data-1.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/prokka_data-2.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/prokka_data-3.png" width="50%" /><img src="CMG_Rscript_files/figure-gfm/prokka_data-4.png" width="50%" />
+
+```
