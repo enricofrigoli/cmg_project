@@ -5,28 +5,33 @@
 % - conserved vs total genes
 
 
+
+
 % Pangenome analysis:
 % what’s the size of your pangenome? Is it closed or open?
 % How many core and accessory genes?
-
 
 Pangenome analysis found 4670 total genes (figure \ref{fig:pangenome pie}), 
 among which 1017 were attributed to the \emph{core} (above 90\% prevalence in MAGs),
 2074 to the \emph{shell} (from 15\% to 89\% prevalence), and 1579 were classified as \emph{cloud}
 (from 0\% to 15\% prevalence). The results were robust with respect to many rounds of computation.
 
-The number of conserved genes appears to reach a plateau (figure \ref{fig:conserved vs total}) when the number of MAGs increases, suggesting that
-this species has a closed pangenome. This is further confermed by the trend of unique genes plotted against the number of genomes (figure \ref{fig:unique vs new}).
+The number of conserved genes appears to reach a plateau (figure \ref{fig:conserved vs total})
+when the number of MAGs increases, suggesting that this species has a closed pangenome.
+This is further confermed by the trend of unique genes plotted against the number of
+genomes (figure \ref{fig:unique vs new}).
 
-
-
+The plot of pangenome frequencies ?? (figure \ref{fig:pangeome frequency}) shows the typical shape observed in microbiome samples.
+It is U shaped since there are conserved functions (core genes) that are present in every strain, and
+other genes that are very specific and are present in only one or few strains (unique genes), with very few genes in between.
 
 \begin{figure}[h]	% to be fixed
      \centering
      \begin{subfigure}[b]{0.4\textwidth}
          \centering
          \includegraphics[width=\textwidth]{conserved_vs_total_genes}
-         \caption{}
+         \caption{\scriptsize{The trend of conserved genes suggest that the species analyzed
+                                has a closed pangenome}}
          \label{fig:conserved vs total}
      \end{subfigure}
      \hfill
@@ -43,28 +48,28 @@ this species has a closed pangenome. This is further confermed by the trend of u
 
 \begin{figure}[h]	% to be fixed
      \centering
-     \begin{subfigure}[b]{0.4\textwidth}
+     \begin{subfigure}[b]{0.45\textwidth}
          \centering
          \includegraphics[width=\textwidth]{pangenome_pie}
          \caption{}
          \label{fig:pangenome pie}
      \end{subfigure}
      \hfill
-     \begin{subfigure}[b]{0.4\textwidth}
+     \begin{subfigure}[b]{0.45\textwidth}
          \centering
          \includegraphics[width=\textwidth]{pangenome_frequency}
          \caption{}
          \label{fig:pangeome frequency}
      \end{subfigure}
      \hfill
-     \begin{subfigure}[b]{0.7\textwidth}
+     \begin{subfigure}[b]{0.85\textwidth}
          \centering
          \includegraphics[width=\textwidth]{pangenome_matrix}
          \caption{}
          \label{fig:pangenome matrix}
      \end{subfigure}
         \caption{Three simple graphs}
-        \label{fig:three graphs}
+        \label{fig:pangenome}
 \end{figure}
 
 
