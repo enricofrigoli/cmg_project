@@ -11,3 +11,4 @@ script
 *.gz
 *.out
 .vscode
+main.pdf
