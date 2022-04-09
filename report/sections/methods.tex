@@ -12,15 +12,16 @@ A total of 31 HQ genomes (29 SGBs and 2 reference genome) were used in this stud
 
 
 %%%% PANGENOME ANALYSIS 
-The species' pangenome was obtained using Roary 3.7.0 (citation) based on Prokka annotation files (.gff). 
-The following parameters were given: \emph{-i 95} to set the minimum percentage of identity
-in the blastp alignement to 95\%, \emph{-cd 90} to set the prevalence in \% MAGs for a gene
-to be considered a core one, \emph{-e} to produce the alignement using PRANK, \emph{-p 8} to
+The species' pangenome was obtained using Roary v3.7.0 (citation) based on Prokka annotation files (.gff). 
+The following parameters were given: \textbf{-i 95} to set the minimum percentage of identity
+in the blastp alignement to 95\%, \textbf{-cd 90} to set the prevalence in \% MAGs for a gene
+to be considered core, \textbf{-e} to produce the alignement using PRANK, \textbf{-p 8} to
 specify the number of threads. 
 
-
-
-
+The number of genes and related classification were retrieved from the output file
+\textit{summary\_statistics.txt} and \textit{gene\_presence\_absence.csv}; plots were generated using two
+plotting script plotting script (\href{https://github.com/sanger-pathogens/Roary/blob/master/bin/create_pan_genome_plots.R}{here}
+and \href{https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_plots/roary_plots.py}{here}).
 
 
 
