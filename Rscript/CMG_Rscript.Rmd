@@ -36,44 +36,48 @@ bin_data <- read.table("CMG_Rscript_data/SGB14797_bin_data.tsv", header=1, sep =
 # STUDY CONDITIONS
 
 conditions <- cbind(metadata[c(5,6)])
-conditions["other_disease"] <- "YES"
-conditions$other_disease[which(is.na(conditions$disease))] <- NA
-conditions$other_disease[which(conditions$disease=="healthy")] <- "NO"
+conditions["other_diseases"] <- 0
+conditions$other_diseases[which(is.na(conditions$disease))] <- NA
+conditions$other_diseases[which(conditions$disease!="healthy")] <- sapply(strsplit(conditions$disease[which(conditions$disease!="healthy")],
+                                                                                  split = ";"), length)
+conditions$other_diseases[which(conditions$study_condition!="control")] <- conditions$other_diseases[which(conditions$study_condition!="control")]-1
+conditions$other_diseases <- as.factor(conditions$other_diseases)
+
 
 # health
-ggplot(data=conditions, aes(x=study_condition, fill=other_disease)) +
+ggplot(data=conditions, aes(x=study_condition, fill=other_diseases)) +
   geom_bar(stat = "count", width=0.5) +
-  ggtitle("Study conditions")+
-  theme(plot.title = element_text(size = 17)) +
-  scale_fill_manual(values = mycolors[c(3,5)])
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.7)) +
+  scale_fill_manual(values = mycolors[c(1,2,3,5)])
 
 # age
 ggplot(data=metadata, aes(x=study_condition, fill=age_category)) +
   geom_bar(stat = "count", width=0.5) +
-  ggtitle("Study conditions")+
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.8)) +
   scale_fill_manual(values = mycolors[c(3,5)])
 
 # gender
 ggplot(data=metadata, aes(x=study_condition, fill=gender)) +
   geom_bar(stat = "count", width=0.5) +
-  ggtitle("Study conditions")+
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.8)) +
   scale_fill_manual(values = mycolors[c(3,5)])
 
 # country
 ggplot(data=metadata, aes(x=study_condition, fill=country)) +
   geom_bar(stat = "count", width=0.5) +
-  ggtitle("Study conditions")+
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.95, 0.7)) +
   scale_fill_manual(values = c("#270240", "#023047", "#219ebc", "#8ecae6", 
                                "#ffb703", "#fb8500", "#fa5316", "#fa352a"))
 
 # westernized
 ggplot(data=metadata, aes(x=study_condition, fill=non_westernized)) +
   geom_bar(stat = "count", width=0.5) +
-  ggtitle("Study conditions")+
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.8)) +
   scale_fill_manual(values = mycolors[c(3,5)])
 
 # EXPLORATORY ANALYSIS
@@ -82,7 +86,8 @@ ggplot(data=metadata, aes(x=study_condition, fill=non_westernized)) +
 ggplot(data=metadata, aes(x=study_condition, y=median_read_length, col=study_condition)) +
   geom_boxplot() +
   ggtitle("Median Readlength") +
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.8)) +
   scale_color_manual(values = mycolors[c(2,3,5)]) +
   theme(legend.position = "none")
 
@@ -90,7 +95,8 @@ ggplot(data=metadata, aes(x=study_condition, y=median_read_length, col=study_con
 ggplot(data=metadata, aes(x=study_condition, y=number_bases, col=study_condition)) +
   geom_boxplot() +
   ggtitle("Number of Bases") +
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.8)) +
   scale_color_manual(values = mycolors[c(2,3,5)]) +
   theme(legend.position = "none")
 
@@ -98,14 +104,15 @@ ggplot(data=metadata, aes(x=study_condition, y=number_bases, col=study_condition
 ggplot(data=metadata, aes(x=study_condition, y=number_reads, col=study_condition)) +
   geom_boxplot() +
   ggtitle("Number of Reads") +
-  theme(plot.title = element_text(size = 17)) +
+  theme(plot.title = element_text(size = 17),
+        legend.position = c(0.9, 0.8)) +
   scale_color_manual(values = mycolors[c(2,3,5)]) +
   theme(legend.position = "none")
 
 ```
 
 
-```{r}
+```{r completeness_redundancy}
 
 # Completeness and redundancy
 
@@ -119,7 +126,6 @@ ggplot(data=cr, aes(x=SGB14797, y=percentage, fill=SGB14797)) +
   geom_violin() +
   theme(plot.title = element_text(size = 17),
         legend.position = "none") +
-  ggtitle("MAGs completeness and contamination") +
   scale_fill_manual(values = mycolors[c(1,4)]) +
   geom_boxplot(width=0.1, fill="white")
 ```
@@ -203,7 +209,7 @@ dim(prokka_nonCDS)
 ggplot(data=prokka_CDS, aes(x=MAG, fill=protein_type)) +
   geom_bar(stat="count", width=0.8) +
   scale_fill_manual(values = mycolors[c(2,5)]) +
-  ggtitle("Number of CDS") +
+  ggtitle("Coding sequences") +
   theme(axis.text.x = element_text(angle=45, hjust=1, vjust=1, size=6, color="black"),
         plot.title = element_text(size = 17))
 # non-coding Sequences
