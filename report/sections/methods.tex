@@ -5,9 +5,13 @@
 
 %%% What software you used for each purpose, what parameters
 
-A total of 31 HQ genomes (29 SGBs and 2 reference genome) were used in this study. 
+A total of 31 HQ genomes (29 SGBs and 2 reference genome) were used in this study.
 
 \nocite{Tange2011a}
+
+\subparagraph*{Taxonomic assignment}
+
+The taxonomic characterization was performed with PhyloPhlAn v. 3.0.60 (reference). In particular, the selected tool was PhyloPhlAn metagenomic: a tool that can assign genomes and MAGs to species-level genome bins by computing their distance with a database of reference genomes. The parameters chosen for the analysis were: \textbf{-nproc 4} to set the number of cores to be used by the program, \textbf{-n 1} to set the number of best taxonomic assignments to show, \textbf{--database_update} to ensure the tool uses the latest database version and \textbf{-d cmg2122} to set the database of markers to be used. This analysis was performed on all the sequences of the set and the tab separated file obtained as output contained the complete taxonomy, from kingdom to species, of each MAG.
 
 
 \subparagraph*{Pangenome Analysis}
