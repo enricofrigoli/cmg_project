@@ -9,3 +9,4 @@ script
 *.fdb_latexmk
 *.fls
 *.gz
+*.out
