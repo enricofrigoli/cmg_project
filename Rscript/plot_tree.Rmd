@@ -2,7 +2,9 @@
 title: "Tree with heatmap"
 author: "enrico frigoli"
 date: '2022-04-10'
-output: html_document
+output:
+  github_document:
+    toc: true
 ---
 
 ```{r}
@@ -34,7 +36,7 @@ extr_sample <- rbind(extr_sample, c("GCA_009755265.fna", 'reference genome', NA)
 final <- dplyr::left_join(extr_bins, extr_sample, by = "sampleID")    # join
 
 
-tree <- read.tree('core_gene.tre')     # build tree
+tree <- read.tree('~/Desktop/lecture_notes/microbial_genomics_segata/cmg_project/prokkaOutput/roary_out_noXieH_prank/core_gene.tre')     # build tree
 
 
 final[order(final$name),]      # sort by name, since sample names must match leaf label in the tree
@@ -71,7 +73,7 @@ p1 <- gheatmap(final_tree, final[,c(4,8)],          # select data to plot in the
          custom_column_labels = c('disease', 'non_westernized'),
          legend_title = 'Metadata')
 p1
-
+ggsave('myplot.png')
 
 ```
 

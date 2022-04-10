@@ -25,7 +25,8 @@ The species' pangenome was obtained using Roary v.3.7.0 (citation) taking Prokka
 The following parameters were given: \textbf{-i 95} to set the minimum percentage of identity
 in the blastp alignement to 95\%, \textbf{-cd 90} to set the prevalence in \% MAGs for a gene
 to be considered core, \textbf{-e} to produce the core gene alignement file using PRANK, \textbf{-p 8} to
-specify the number of threads. 
+specify the number of threads. A core gene alignement using MAFFT ( \texttt{-n} parameter) was ran to check
+the difference between the two alignement engines.
 
 The number of genes and related classification were retrieved from the output file
 \textit{summary\_statistics.txt} and \textit{gene\_presence\_absence.csv}; plots were generated using two
@@ -36,9 +37,9 @@ and \href{https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_pl
 \subparagraph*{Phylogenetic Structure}
 
 The resulting core gene alignement file (.aln) obtained with Roary was processed with FastTree v.2.1.10
-using \textbf{-nt} as parameter (nucleotide alignement). ITOL v.6 (\href{https://itol.embl.de/}{Interactive Tree of Life})
-was used to visualize both the tree obtained from Roary (.newick) and the one obtained from the core
-gene alignement file processed with FastTree (.tre).
+using \textbf{-nt} as parameter (nucleotide alignement). The R package \texttt{ggtree} was used to plot
+the tree with the selected metadata.
+
 
 
 
