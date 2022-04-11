@@ -10,11 +10,28 @@
 
 \subparagraph*{Taxonomic assignment}
 
-The taxonomic characterization was performed with PhyloPhlAn v. 3.0.60 (\cite{phylophlan}). In particular, the selected tool was PhyloPhlAn metagenomic: a tool that can assign genomes and MAGs to species-level genome bins by computing their distance with a database of reference genomes. The parameters chosen for the analysis were: \texttt{-nproc 4} to set the number of cores to be used by the program, \texttt{-n 1} to set the number of best taxonomic assignments to show, \texttt{--database\_update} to ensure the tool uses the latest database version and \texttt{-d cmg2122} to set the database of markers to be used. This analysis was performed on all the sequences of the set and the tab separated file obtained as output contained the complete taxonomy, from kingdom to species, of each MAG.
+The taxonomic characterization was performed with PhyloPhlAn v. 3.0.60
+(\cite{phylophlan}). In particular, the selected tool was PhyloPhlAn metagenomic:
+a tool that can assign genomes and MAGs to species-level genome bins by
+computing their distance with a database of reference genomes. The parameters
+chosen for the analysis were: \texttt{-nproc 4} to set the number of cores to be
+used by the program, \texttt{-n 1} to set the number of best taxonomic
+assignments to show, \texttt{--database\_update} to ensure the tool uses the
+latest database version and \texttt{-d cmg2122} to set the database of markers
+to be used. This analysis was performed on all the sequences of the set and the
+tab separated file obtained as output contained the complete taxonomy, from 
+kingdom to species, of each MAG.
 
 \subparagraph*{Genome annotation}
 
-The genomes were annotated with the Prokka software v. 1.13 (\cite{prokka}). The option \texttt{--kingdom Bacteria} was selected to specify that the genome used ad input is bacterial, since Prokka also annotates archaeal and viral genomes. This procedure was applied to all the sequences of the set. As output, a series of files were obtained for each MAG and three of them were further analyzed in this project: the annotation file (.gff) was used for the pangenome analysis, the text and tab separated files were used to visualize some statistics with R (\href{https://github.com/enricofrigoli/cmg_project/blob/main/Rscript/CMG_Rscript.md}{link to the script}).
+The genomes were annotated with Prokka software v. 1.13 (\cite{prokka}).
+The option \texttt{--kingdom Bacteria} was selected to specify that the genome
+used ad input is bacterial, since Prokka also annotates archaeal and viral
+genomes. This procedure was applied to all the sequences of the set. As output,
+a series of files were obtained for each MAG and three of them were further
+analyzed in this project: the annotation file (.gff) was used for the pangenome
+analysis, the text and tab separated files were used to visualize some
+statistics with R (\href{https://github.com/enricofrigoli/cmg_project/blob/main/Rscript/CMG_Rscript.md}{link to the script}).
 
 
 
@@ -30,8 +47,8 @@ the difference between the two alignement engines.
 
 The number of genes and related classification were retrieved from the output file
 \texttt{summary\_statistics.txt} and \texttt{gene\_presence\_absence.csv}; plots were generated using two
-plotting script (\href{https://github.com/sanger-pathogens/Roary/blob/master/bin/create_pan_genome_plots.R}{here}
-and \href{https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_plots/roary_plots.py}{here}).
+plotting script (\href{https://github.com/sanger-pathogens/Roary/blob/master/bin/create_pan_genome_plots.R}{link}
+and \href{https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_plots/roary_plots.py}{link}).
 
 
 \subparagraph*{Phylogenetic Structure}
@@ -39,7 +56,7 @@ and \href{https://github.com/sanger-pathogens/Roary/blob/master/contrib/roary_pl
 The resulting core gene alignement file (.aln) obtained with Roary was manually checked with
 Jalview v.2.11.21 and then processed with FastTree v.2.1.10 (\cite{fasttree})
 using \texttt{-nt} as parameter (nucleotide alignement), which infers approximately-maximum-likelihood phylogenetic trees using the Jukes-Cantor model for nucleotide evolution.
-. The R package \texttt{ggtree} (\cite{ggtree1, ggtree2, ggtree3}) was used to plot
+The R package \texttt{ggtree} (\cite{ggtree1, ggtree2, ggtree3}) was used to plot
 the tree with the selected metadata.
 
 
