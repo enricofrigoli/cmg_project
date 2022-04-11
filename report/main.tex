@@ -20,7 +20,11 @@
 %% \pagestyle{empty} remove header and footer for that page
 %% \pagestyle{plain} add only the page number
 
-\usepackage{biblatex}
+\usepackage[
+    backend=biber, 
+    natbib=true,
+    sorting=none
+]{biblatex}
 \addbibresource{references.bib}
 
 \begin{document}
