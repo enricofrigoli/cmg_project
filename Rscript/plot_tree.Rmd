@@ -12,9 +12,12 @@ library(ggplot2)
 library(ggtree)
 ```
 
+DISCLAIMER: this code was written in few hours due to time constraints, starting from scratch, with the only purpose of obtaining the trees and the heatmaps to be inserted in the report. 
+
+
 ```{r}
-bin_metadata <- read.csv('~/Desktop/lecture_notes/microbial_genomics_segata/cmg_project/data/SGB14797_bin_data.tsv', sep = '\t')
-samples <- read.csv('~/Desktop/lecture_notes/microbial_genomics_segata/cmg_project/data/SGB14797_metadata.tsv', sep = '\t')
+bin_metadata <- read.csv('pathTo/SGB14797_bin_data.tsv', sep = '\t')
+samples <- read.csv('pathTo/SGB14797_metadata.tsv', sep = '\t')
 ```
 
 ```{r}
@@ -35,15 +38,11 @@ extr_sample <- rbind(extr_sample, c("GCA_009755265.fna", 'reference genome', NA)
 final <- dplyr::left_join(extr_bins, extr_sample, by = "sampleID")    # join
 
 
-tree <- read.tree('~/Desktop/lecture_notes/microbial_genomics_segata/cmg_project/prokkaOutput/roary_out_noXieH_prank/core_gene.tre')     
-
-
-# '~/Desktop/lecture_notes/microbial_genomics_segata/cmg_project/prokkaOutput/roary_out_noXieH_prank/accessory_binary_genes.fa.newick'
-# '~/Desktop/lecture_notes/microbial_genomics_segata/cmg_project/prokkaOutput/roary_out_noXieH_prank/core_gene.tre'
+tree <- read.tree('pathTo/core_gene.tre')       # read tree
 
 
 final[order(final$name),]      # sort by name, since sample names must match leaf label in the tree
-filenames <- tree$tip.label
+filenames <- tree$tip.label     # extract filenames from tree tips
 filenames <- sort(filenames)
 print(filenames)
 final <- cbind(filenames, final)  # add filenames to ensure the match between tip.label and the metadata (the order doesn't matter)
@@ -81,13 +80,13 @@ p1
 final$age <- as.numeric(final$age)
 final$BMI <- as.numeric(final$BMI)
 
-library(ggnewscale)
+library(ggnewscale)   # add the second heatmap with cotinuous values
 p2 <- p1 + new_scale_fill()
 gheatmap(p2, final[,c(5,9)], offset=0.078, width=.1, colnames_position = 'top',
          colnames_angle=90, colnames_offset_y = .25, font.size = 3) +
     scale_fill_viridis_c(option="B", name="Age & BMI")
 
-ggsave('myTree.png')
+ggsave('myTree.png') 
 
 ```
 
